@@ -1,0 +1,2664 @@
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #fff; COLOR: #000; FONT-SIZE: 100%; PADDING-TOP: 0px
+}
+A {
+	COLOR: #03c; TEXT-DECORATION: none
+}
+.link {
+	COLOR: #03c; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #039; TEXT-DECORATION: none
+}
+.linked {
+	COLOR: #039; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #36f; TEXT-DECORATION: underline
+}
+.link:hover {
+	COLOR: #36f; TEXT-DECORATION: underline
+}
+.link:hover {
+	COLOR: #36f; TEXT-DECORATION: underline
+}
+A.selected {
+	COLOR: #345; FONT-WEIGHT: bold
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+LEGEND {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+LABEL {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+INPUT:focus {
+	OVERFLOW: hidden
+}
+A:focus {
+	OVERFLOW: hidden
+}
+.jump {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.jump LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.jump LI {
+	POSITION: absolute; LIST-STYLE-TYPE: none; TEXT-INDENT: -7000em; LIST-STYLE-IMAGE: none
+}
+.pagetitle {
+	MARGIN: 0.5em 0px; COLOR: #89a; FONT-SIZE: 100%
+}
+#kahuna LEGEND {
+	DISPLAY: none !important
+}
+.topnav FORM LABEL {
+	DISPLAY: none !important
+}
+#kahuna FORM LABEL {
+	DISPLAY: none !important
+}
+.nobreak {
+	WHITE-SPACE: nowrap
+}
+.basic {
+	FONT-WEIGHT: normal
+}
+#frame TABLE TR TD {
+	FONT-SIZE: 100%
+}
+#frame P TABLE TR TD P {
+	FONT-SIZE: 100%
+}
+#frame P TABLE TR TD H3 {
+	FONT-SIZE: 100%
+}
+#frame P TABLE TR TD {
+	FONT-SIZE: 100%
+}
+#frame P TABLE TR TD TABLE TR TD {
+	FONT-SIZE: 100%
+}
+#frame TABLE TABLE TR TD {
+	FONT-SIZE: 85%
+}
+.my_tasks TABLE TD {
+	FONT-SIZE: 85% !important
+}
+.my_donations TABLE TD {
+	FONT-SIZE: 85% !important
+}
+.site_mailings TABLE TD {
+	FONT-SIZE: 85% !important
+}
+.my_projects TABLE TD {
+	FONT-SIZE: 85% !important
+}
+.my_subscription TABLE TD {
+	FONT-SIZE: 85% !important
+}
+.developer_page TABLE TD {
+	FONT-SIZE: 85% !important
+}
+.preferences TABLE TD {
+	FONT-SIZE: 85% !important
+}
+.flow {
+	WIDTH: 15.8em !important
+}
+#hd * {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#masthead {
+	POSITION: relative; HEIGHT: 60px
+}
+#hd H1 {
+	Z-INDEX: 0; POSITION: absolute !important; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 255px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx_logo2.png) no-repeat -5px -5px; HEIGHT: 50px; TOP: 0px !important; PADDING-TOP: 0px; LEFT: 0px !important
+}
+#masthead H1 {
+	Z-INDEX: 0; POSITION: absolute !important; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 255px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx_logo2.png) no-repeat -5px -5px; HEIGHT: 50px; TOP: 0px !important; PADDING-TOP: 0px; LEFT: 0px !important
+}
+#hd H1 A {
+	POSITION: absolute; TEXT-INDENT: -700em; WIDTH: 255px; TEXT-DECORATION: none; LEFT: 0px
+}
+#masthead H1 A {
+	POSITION: absolute; TEXT-INDENT: -700em; WIDTH: 255px; TEXT-DECORATION: none; LEFT: 0px
+}
+#hd H1 A:hover {
+	TEXT-DECORATION: none !important
+}
+#masthead H1 A:hover {
+	TEXT-DECORATION: none !important
+}
+BODY {
+	PADDING-TOP: 2.4em
+}
+UL#mainnav {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0.2em; MARGIN: 0px 0px -1px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; BACKGROUND: url(../dotnet/dark_fade_10.png) #fff repeat-x 50% bottom; PADDING-TOP: 0.2em
+}
+UL#mainnav LI {
+	Z-INDEX: 2; POSITION: relative; PADDING-BOTTOM: 0.2em; LIST-STYLE-TYPE: none; MARGIN: 0px 0.2em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; BACKGROUND: url(../dotnet/dark_fade_g.png) #fff repeat-x 50% bottom; LIST-STYLE-IMAGE: none; PADDING-TOP: 0.2em
+}
+UL#mainnav LI A {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 1.2em; PADDING-RIGHT: 1.2em; COLOR: #334455; FONT-SIZE: 80%; FONT-WEIGHT: bold; PADDING-TOP: 0.4em
+}
+UL#mainnav LI.selected A {
+	COLOR: #fff
+}
+UL#mainnav LI A SUP {
+	Z-INDEX: 3; POSITION: absolute; TOP: -6.5px; RIGHT: 3px
+}
+UL#mainnav LI A SUP B {
+	POSITION: absolute; TEXT-INDENT: -7000em; WIDTH: 31px; HEIGHT: 12px; TOP: 0px; RIGHT: 0px
+}
+UL#mainnav LI.selected {
+	POSITION: relative; BACKGROUND: url(../dotnet/crush.png) #ed5929 repeat-x 50% top
+}
+UL#mainnav LI.selected:hover {
+	POSITION: relative; BACKGROUND: url(../dotnet/crush.png) #ed5929 repeat-x 50% top
+}
+UL#mainnav LI:hover {
+	BACKGROUND: url(../dotnet/dark_dwn_fade_g.png) #fff repeat-x left top
+}
+.beta A SUP B {
+	BACKGROUND: url(../dotnet/icons/beta_sm.png) no-repeat 0px -5px
+}
+.new A SUP B {
+	BACKGROUND: url(../dotnet/icons/new_sm.png) no-repeat 0px -5px
+}
+#topuser {
+	Z-INDEX: 1; POSITION: absolute; PADDING-BOTTOM: 0.3em; WHITE-SPACE: nowrap; BACKGROUND: #fff; COLOR: #345; MARGIN-LEFT: 260px; FONT-SIZE: 75% !important; TOP: 10px; RIGHT: 5px
+}
+#topuser A {
+	PADDING-RIGHT: 0.5em; TEXT-DECORATION: underline
+}
+#topuser .menu1 {
+	BORDER-LEFT: #bcd 1px solid; PADDING-LEFT: 0.8em
+}
+#topuser SELECT {
+	BORDER-BOTTOM: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; FONT-SIZE: 95%; BORDER-TOP: #aaa 1px solid; BORDER-RIGHT: #aaa 1px solid; PADDING-TOP: 0.1em
+}
+#kahuna LEGEND {
+	DISPLAY: none !important
+}
+.topnav FORM LABEL {
+	DISPLAY: none !important
+}
+#kahuna FORM LABEL {
+	DISPLAY: none !important
+}
+#kahuna {
+	Z-INDEX: 4; BORDER-BOTTOM: #aaa 1px solid; POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0.37em; PADDING-LEFT: 0.37em; PADDING-RIGHT: 0.37em; BACKGROUND: url(../dotnet/dark_fade_g.png) #fff repeat-x 50% bottom; CLEAR: both; BORDER-TOP: #ed5929 3px solid; PADDING-TOP: 0.37em
+}
+#kahuna FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; PADDING-TOP: 0px
+}
+#kahuna A {
+	HEIGHT: 100%; FONT-SIZE: 75%; TEXT-DECORATION: underline
+}
+#kahuna FORM INPUT#searchbox {
+	BORDER-BOTTOM: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; PADDING-BOTTOM: 0.15em; PADDING-LEFT: 0.2em; WIDTH: 23em !important; PADDING-RIGHT: 0.2em; FONT-SIZE: 80%; BORDER-TOP: #aaa 1px solid; BORDER-RIGHT: #aaa 1px solid; PADDING-TOP: 0.15em
+}
+#kahuna FORM INPUT#searchsubmit {
+	BORDER-BOTTOM: #c30 1px solid; BORDER-LEFT: #ed5929 1px solid; PADDING-BOTTOM: 0.1em; MARGIN: 0px 0px 0px 0.2em; PADDING-LEFT: 0.6em; PADDING-RIGHT: 0.6em; BACKGROUND: url(../dotnet/crush.png) #ed5929 repeat-x 50% top; COLOR: #fff; FONT-SIZE: 80%; BORDER-TOP: #ed5929 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #c30 1px solid; PADDING-TOP: 0.1em
+}
+#kahuna FORM INPUT.test#searchsubmit {
+	BORDER-BOTTOM: #fc9 1px solid; BORDER-LEFT: #c30 1px solid; BACKGROUND: #ed5929; COLOR: #fed; BORDER-TOP: #c30 1px solid; BORDER-RIGHT: #fc9 1px solid
+}
+#kahuna FORM SELECT {
+	BORDER-BOTTOM: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; BACKGROUND: #fff; FONT-SIZE: 80%; BORDER-TOP: #aaa 1px solid; BORDER-RIGHT: #aaa 1px solid; PADDING-TOP: 0.1em
+}
+#kahuna FORM FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#kahuna FORM LABEL {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#myfav {
+	DISPLAY: inline
+}
+.nohost {
+	PADDING-BOTTOM: 0px !important; MARGIN: 0px 0.5em 0px 0px; PADDING-LEFT: 0px !important; PADDING-RIGHT: 22px !important; BACKGROUND: url(../dotnet/icons/silk/link_external.png) no-repeat right 50%; PADDING-TOP: 0px !important
+}
+.website A {
+	PADDING-BOTTOM: 0px !important; MARGIN: 0px 0.5em 0px 0px; PADDING-LEFT: 0px !important; PADDING-RIGHT: 22px !important; BACKGROUND: url(../dotnet/icons/silk/link_external.png) no-repeat right 50%; PADDING-TOP: 0px !important
+}
+.down {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 140%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_down.gif) no-repeat left 50%; PADDING-TOP: 0px
+}
+#breadcrumb {
+	PADDING-BOTTOM: 1em; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 85%; PADDING-TOP: 0px
+}
+#breadcrumb LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; COLOR: #789; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#breadcrumb LI:before {
+	CONTENT: "\00BB \0020"
+}
+#breadcrumb LI:first-child:before {
+	CONTENT: ""
+}
+#breadcrumb LI A {
+	COLOR: #56626d
+}
+#breadcrumb LI.selected A {
+	FONT-WEIGHT: bold
+}
+#frame {
+	CLEAR: both
+}
+#innerframe {
+	PADDING-BOTTOM: 1em; PADDING-LEFT: 2em; PADDING-RIGHT: 2em; CLEAR: both; PADDING-TOP: 1em
+}
+.welcome P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0.6em; PADDING-RIGHT: 0.6em; PADDING-TOP: 0px
+}
+.project P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0.6em; PADDING-RIGHT: 0.6em; PADDING-TOP: 0px
+}
+.titlebar {
+	PADDING-BOTTOM: 1.7em; MARGIN: 0px 0px -0.5em; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/sfx/sfx_titlebar_bg2.png) #eef0f3 repeat-x left bottom; COLOR: #345; FONT-SIZE: 82.3%; BORDER-TOP: #bcd 1px solid; PADDING-TOP: 0.3em
+}
+.tbar H3 {
+	PADDING-BOTTOM: 1.7em; MARGIN: 0px 0px -0.5em; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/sfx/sfx_titlebar_bg2.png) #eef0f3 repeat-x left bottom; COLOR: #345; FONT-SIZE: 82.3%; BORDER-TOP: #bcd 1px solid; PADDING-TOP: 0.3em
+}
+.tbarhigh H3 {
+	PADDING-BOTTOM: 1.7em; MARGIN: 0px 0px -0.5em; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/sfx/sfx_titlebar_bg2.png) #eef0f3 repeat-x left bottom; COLOR: #345; FONT-SIZE: 82.3%; BORDER-TOP: #bcd 1px solid; PADDING-TOP: 0.3em
+}
+.titlebar_orange {
+	PADDING-BOTTOM: 2.1em; MARGIN: 0px 0px -1.5em; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/titlebar_orange2.png) #ffdcb7 repeat-x left bottom; COLOR: #930; FONT-SIZE: 82.3%; BORDER-TOP: #ffb667 1px solid; PADDING-TOP: 0.3em
+}
+.tbar B {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+.tbarhigh B {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px
+}
+.downloadbar {
+	POSITION: relative; PADDING-BOTTOM: 1.7em !important; MARGIN: 0px 0px -0.5em 1em; PADDING-LEFT: 0.5em !important; WIDTH: 17em; PADDING-RIGHT: 4.5em !important; BACKGROUND: url(../dotnet/sfx/sfx_dl_bg2.png) #0a0 repeat-x left bottom; COLOR: #345; FONT-SIZE: 82.3%; BORDER-TOP: #008000 1px solid; PADDING-TOP: 0.3em !important
+}
+.downloadbar A {
+	MARGIN: 0px 3.5em 0px 0px; COLOR: #fff !important
+}
+.downloadbar A:hover {
+	COLOR: #efe !important
+}
+.downloadbar SMALL {
+	POSITION: absolute; PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; BOTTOM: 0px; PADDING-RIGHT: 20px; BACKGROUND: url(../dotnet/sfx/sfx_dl_arrow2.png) no-repeat left bottom; COLOR: #fff; RIGHT: 0px; PADDING-TOP: 20px
+}
+.titlebar SMALL {
+	POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; TOP: 0.2em; RIGHT: 0.3em; PADDING-TOP: 10px
+}
+.titlebar SMALL A {
+	POSITION: absolute; TEXT-INDENT: -7000em; TOP: 0px; RIGHT: 0px
+}
+.linkbar {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -41px; PADDING-TOP: 0.3em
+}
+.linkbar {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -41px; PADDING-TOP: 0.3em
+}
+#pdetails LI SPAN {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; DISPLAY: inline; PADDING-TOP: 0.1em
+}
+#parea LI SPAN {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; DISPLAY: inline; PADDING-TOP: 0.1em
+}
+.welcome .column LI {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+.welcome .column LI SPAN {
+	FONT-SIZE: 85%
+}
+.welcome .column {
+	BORDER-BOTTOM: medium none; POSITION: relative; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px 1em 1em; PADDING-LEFT: 0px; WIDTH: 21%; PADDING-RIGHT: 0px; FLOAT: left; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.welcome .column LI {
+	POSITION: relative; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 1.2em; PADDING-RIGHT: 0px; PADDING-TOP: 0.3em
+}
+#frame #pdetails LI {
+	POSITION: relative; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 1.2em; PADDING-RIGHT: 0px; PADDING-TOP: 0.3em
+}
+#frame #parea LI {
+	POSITION: relative; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 1.2em; PADDING-RIGHT: 0px; PADDING-TOP: 0.3em
+}
+#frame #pdetails LI {
+	POSITION: static; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0.3em
+}
+#frame #parea LI {
+	POSITION: static; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0.3em
+}
+#sfmarquee {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/marquee.gif) no-repeat; PADDING-TOP: 1.1em
+}
+#sfmarquee H4 {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: -0.5em 0px 0.6em; PADDING-LEFT: 0px; WIDTH: 51%; PADDING-RIGHT: 0px; FLOAT: left; COLOR: #56626d !important; FONT-SIZE: 90%; FONT-WEIGHT: normal; PADDING-TOP: 0.5em
+}
+#sfmarquee H4 STRONG {
+	FONT-SIZE: 120%; FONT-WEIGHT: bold
+}
+#sfmarquee H4 STRONG SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-TOP: 0px
+}
+#sfmarquee H4 A {
+	COLOR: #56626d
+}
+#sfmarquee H4 A:hover {
+	TEXT-DECORATION: none
+}
+#frame .onewidetop .highlights {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: -0.8em 0px 0px; WIDTH: 49%; FLOAT: right; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#frame .highlights LI {
+	TEXT-ALIGN: right; MARGIN: 0px; COLOR: #56626d; FONT-SIZE: 70%
+}
+#frame .highlights LI A {
+	COLOR: #56626d; FONT-SIZE: 100%; FONT-WEIGHT: bold
+}
+#frame .highlights LI.bottom {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV.stats {
+	TEXT-ALIGN: center; MARGIN: 0.5em 0px -0.5em; COLOR: #56626d; CLEAR: both; FONT-SIZE: 70%
+}
+DIV.stats A {
+	COLOR: #56626d
+}
+#frame OL LI {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0.1em; LIST-STYLE-TYPE: decimal; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0.1em
+}
+#frame OL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+.view_artifact#frame TEXTAREA#details {
+	WIDTH: 80%
+}
+#ad34 {
+	Z-INDEX: 0 !important; POSITION: relative; WIDTH: 300px; FLOAT: left
+}
+.dual {
+	MARGIN: 0px 0px 0px 300px
+}
+#ad7 {
+	MARGIN: 0px 0px 0px 2%; WIDTH: 48%; FLOAT: left
+}
+#ostgservices {
+	MARGIN: 0px 0px 0px 2%; WIDTH: 48%; FLOAT: left
+}
+.pricegrabber SMALL {
+	FONT-SIZE: 75%
+}
+.subtitle {
+	BORDER-BOTTOM: #789 2px solid; POSITION: relative; MARGIN: 0px; COLOR: #789; CLEAR: left; FONT-SIZE: 85%; FONT-WEIGHT: bold
+}
+#fad19 H3 {
+	BORDER-BOTTOM: #789 2px solid; POSITION: relative; MARGIN: 0px; COLOR: #789; CLEAR: left; FONT-SIZE: 85%; FONT-WEIGHT: bold
+}
+#fad24 H3 {
+	BORDER-BOTTOM: #789 2px solid; POSITION: relative; MARGIN: 0px; COLOR: #789; CLEAR: left; FONT-SIZE: 85%; FONT-WEIGHT: bold
+}
+#fad2sm H3 {
+	BORDER-BOTTOM: #789 2px solid; POSITION: relative; MARGIN: 0px 0px -1px 0.4em; COLOR: #789; CLEAR: left; FONT-SIZE: 85%; FONT-WEIGHT: bold
+}
+#fad19 H3 {
+	MARGIN-TOP: 1em; FONT-SIZE: 70% !important
+}
+#fad24 H3 {
+	MARGIN-TOP: 1em; FONT-SIZE: 70% !important
+}
+#fad19 P {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: 0px 2% 0px 0px; WIDTH: 28%; FLOAT: left; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#fad24 P {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: 0px 2% 0px 0px; WIDTH: 28%; FLOAT: left; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#fad19 P SMALL {
+	FONT-SIZE: 85% !important
+}
+#fad24 P SMALL {
+	FONT-SIZE: 85% !important
+}
+#fad1p {
+	WIDTH: 728px; HEIGHT: 90px
+}
+#fad2p {
+	TEXT-ALIGN: center; WIDTH: 20%; FLOAT: right
+}
+#fad36p {
+	WIDTH: 360px; FLOAT: right; HEIGHT: 90px; CLEAR: right
+}
+#fad6p {
+	FLOAT: right; HEIGHT: 410px
+}
+.welcome #fad6p {
+	HEIGHT: 380px
+}
+#fad24p {
+	Z-INDEX: 0; POSITION: relative; HEIGHT: 12em
+}
+#fadbtmp {
+	HEIGHT: 23em; CLEAR: both
+}
+#sponsored_dl DIV.left DIV {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#sponsored_dl DIV.right DIV {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#sponsored_dl DIV.center DIV {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#sponsored_dl DIV.left .left {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#sponsored_dl DIV.right .right {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#sponsored_dl DIV.center .center {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#sponsored_dl DIV.left {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.3em; MARGIN: 0.3em 0px 1em; PADDING-LEFT: 0px; WIDTH: 30%; PADDING-RIGHT: 0px; DISPLAY: block; FLOAT: left; PADDING-TOP: 0.3em
+}
+#sponsored_dl DIV.right {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.3em; MARGIN: 0.3em 0px 1em; PADDING-LEFT: 0px; WIDTH: 30%; PADDING-RIGHT: 0px; DISPLAY: block; FLOAT: left; PADDING-TOP: 0.3em
+}
+#sponsored_dl DIV.center {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.3em; MARGIN: 0.3em 0px 1em; PADDING-LEFT: 0px; WIDTH: 30%; PADDING-RIGHT: 0px; DISPLAY: block; FLOAT: left; PADDING-TOP: 0.3em
+}
+.post_download #sponsored_dl {
+	LINE-HEIGHT: 100%
+}
+#sponsored_dl DIV.right {
+	BORDER-LEFT: #fff 10px solid
+}
+#sponsored_dl DIV.left {
+	BORDER-RIGHT: #fff 10px solid
+}
+#sponsored_dl DIV.center {
+	BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 0.3em
+}
+#sponsored_dl {
+	Z-INDEX: 0; POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 140%; MARGIN-TOP: -2em !important; PADDING-LEFT: 0.6em; PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: 90px; FONT-SIZE: 80%; BORDER-TOP: #ddd 1px solid; PADDING-TOP: 0px
+}
+.software_map #sponsored_dl {
+	MARGIN: 1.5em 0px
+}
+.search #sponsored_dl {
+	MARGIN: 1.5em 0px
+}
+.sponsortitle {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #abc; FONT-SIZE: 70%; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.sponsortitle B {
+	Z-INDEX: 1; POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BACKGROUND: #fff; PADDING-TOP: 0px
+}
+#sponsored_dl STRONG {
+	POSITION: relative
+}
+#fad1 {
+	Z-INDEX: 1 !important; POSITION: absolute; WIDTH: 100%; DISPLAY: block; OVERFLOW: hidden; TOP: 6.6em; LEFT: 0px
+}
+#fad1 DIV {
+	WIDTH: 728px; MARGIN-LEFT: auto; OVERFLOW: hidden; MARGIN-RIGHT: auto
+}
+#fad1 DIV DIV {
+	TEXT-ALIGN: left; MARGIN: 0px; WIDTH: 100%
+}
+#fad2sm {
+	Z-INDEX: 1
+}
+.search #fad2 {
+	POSITION: absolute; WIDTH: 160px; TOP: 17em; RIGHT: 1em
+}
+#fad36 {
+	Z-INDEX: 1 !important; POSITION: absolute; TOP: 170px; RIGHT: 2em !important; PADDING-TOP: 2.6em
+}
+#adpowerbar DIV.pow_note {
+	HEIGHT: 11px !important; OVERFLOW: hidden
+}
+.filespackage #fad36 {
+	PADDING-TOP: 8.5em
+}
+.platformdownload #fad36 {
+	PADDING-TOP: 8.5em
+}
+.files #fad36 {
+	PADDING-TOP: 8.5em
+}
+.project_summary #fad36 {
+	PADDING-TOP: 8.5em
+}
+#fad36 #adpowerbar {
+	WIDTH: 300px; DISPLAY: block
+}
+.filespackage #fad6p {
+	HEIGHT: 315px !important
+}
+.files #fad6p {
+	HEIGHT: 390px !important
+}
+#fad6 {
+	Z-INDEX: 0 !important; POSITION: absolute; MARGIN: 0px auto; WIDTH: 336px; DISPLAY: block; HEIGHT: 280px; TOP: 245px; RIGHT: 2em !important; PADDING-TOP: 2.6em
+}
+.post_download #fad6 {
+	TOP: 270px; RIGHT: 270px !important
+}
+.post_download #fad6 {
+	TOP: 270px; RIGHT: 270px !important
+}
+.post_download #fad36p {
+	Z-INDEX: 3 !important
+}
+.post_download #innerframe {
+	Z-INDEX: inherit
+}
+.post_download #fad6 DIV {
+	Z-INDEX: 3 !important; POSITION: relative
+}
+.post_download H2 {
+	Z-INDEX: 2; POSITION: relative; MARGIN-RIGHT: 340px
+}
+.post_download P {
+	Z-INDEX: 2; POSITION: relative; MARGIN-RIGHT: 340px
+}
+.post_download .titlebar_orange {
+	Z-INDEX: 2; POSITION: relative; MARGIN-RIGHT: 340px
+}
+#fad6 DIV {
+	Z-INDEX: 0 !important; POSITION: relative; MARGIN: 0px auto; FLOAT: right
+}
+#fad6 DIV DIV {
+	TEXT-ALIGN: left; WIDTH: 100%
+}
+#fad6 DIV DIV DIV {
+	MARGIN: 0px 0px 0.5em; FLOAT: none
+}
+.filespackage #fad6 {
+	PADDING-TOP: 8.5em
+}
+.files #fad6 {
+	PADDING-TOP: 8.5em
+}
+.project_summary #fad6 {
+	PADDING-TOP: 8.5em
+}
+.platformdownload #fad6 {
+	PADDING-TOP: 8.5em
+}
+.filespackage #fad6 {
+	TOP: 170px
+}
+.project_search #fad19 {
+	Z-INDEX: 0; POSITION: absolute; MARGIN: -48em 2em 0px 0px; WIDTH: 74.5%; FONT-SIZE: 85%; LEFT: 2.5em
+}
+#fad24 {
+	Z-INDEX: 0; POSITION: absolute; MARGIN: -48em 2em 0px 0px; WIDTH: 74.5%; FONT-SIZE: 85%; LEFT: 2.5em
+}
+#fadbtm {
+	POSITION: absolute; MARGIN: -28em 2em 0px 0px; WIDTH: auto; HEIGHT: auto; LEFT: 2em
+}
+.sponsor {
+	TEXT-ALIGN: center
+}
+.onewide {
+	MARGIN: 0px 230px 0px 0px
+}
+.onewidetop {
+	MARGIN: 0px 330px 0px 0px
+}
+.onewidedl {
+	MARGIN: 0px 180px 0px 0px
+}
+.onewidebtm {
+	MARGIN: 0px; CLEAR: both
+}
+.one {
+	POSITION: relative; MARGIN: 0px; WIDTH: 98%; FLOAT: left
+}
+.two {
+	WIDTH: 48%; FLOAT: left
+}
+.three {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; WIDTH: 48%; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+.project .two {
+	WIDTH: 55%; FLOAT: left; CLEAR: left
+}
+.potm .two {
+	WIDTH: 55%; FLOAT: left; CLEAR: left
+}
+.project .three {
+	MARGIN: 0px 0px 0px 1em; WIDTH: 38%; FLOAT: left
+}
+.potm .three {
+	MARGIN: 0px 0px 0px 1em; WIDTH: 38%; FLOAT: left
+}
+.four {
+	WIDTH: 220px; FLOAT: right; CLEAR: right
+}
+.five {
+	WIDTH: 328px; FLOAT: right; CLEAR: right
+}
+.six {
+	WIDTH: 220px; FLOAT: right
+}
+.seven {
+	MARGIN: 0px; WIDTH: 25%; FLOAT: left
+}
+.eight {
+	MARGIN: 0px 2%; WIDTH: 46%; FLOAT: left
+}
+#frame #btmad UL {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#btmad {
+	CLEAR: left
+}
+.pending {
+	COLOR: #000
+}
+.error {
+	COLOR: #000
+}
+.warning {
+	COLOR: #000
+}
+.message {
+	COLOR: #000
+}
+H3.info {
+	FONT-SIZE: 90%
+}
+H3.error {
+	FONT-SIZE: 90%
+}
+H3.warning {
+	FONT-SIZE: 90%
+}
+H3.message {
+	FONT-SIZE: 90%
+}
+.error {
+	BORDER-BOTTOM: #fbb 1px solid; POSITION: relative; BORDER-LEFT: #fbb 1px solid; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em 0px 1em; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/icons/silk/delete.png) #fdd no-repeat 10px 3px; BORDER-TOP: #fbb 1px solid; BORDER-RIGHT: #fbb 1px solid; PADDING-TOP: 0.2em
+}
+.error#frame {
+	BORDER-BOTTOM: medium none; POSITION: static; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.error#adbatch {
+	BORDER-BOTTOM: medium none; POSITION: static; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.warning {
+	BORDER-BOTTOM: #fe6 1px solid; POSITION: relative; BORDER-LEFT: #fe6 1px solid; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em 0px 1em; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/sfx/icon_warning.gif) #ffd no-repeat 10px 3px; BORDER-TOP: #fe6 1px solid; BORDER-RIGHT: #fe6 1px solid; PADDING-TOP: 0.2em
+}
+.pending {
+	BORDER-BOTTOM: #fe6 1px solid; POSITION: relative; BORDER-LEFT: #fe6 1px solid; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em 0px 1em; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/sfx/icon_warning.gif) #ffd no-repeat 10px 3px; BORDER-TOP: #fe6 1px solid; BORDER-RIGHT: #fe6 1px solid; PADDING-TOP: 0.2em
+}
+.WikiBanner {
+	BORDER-BOTTOM: #fe6 1px solid; POSITION: relative; BORDER-LEFT: #fe6 1px solid; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em 0px 1em; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/sfx/icon_warning.gif) #ffd no-repeat 10px 3px; BORDER-TOP: #fe6 1px solid; BORDER-RIGHT: #fe6 1px solid; PADDING-TOP: 0.2em
+}
+.WikiNotice {
+	BORDER-BOTTOM: #fe6 1px solid; POSITION: relative; BORDER-LEFT: #fe6 1px solid; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em 0px 1em; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/sfx/icon_warning.gif) #ffd no-repeat 10px 3px; BORDER-TOP: #fe6 1px solid; BORDER-RIGHT: #fe6 1px solid; PADDING-TOP: 0.2em
+}
+.message {
+	BORDER-BOTTOM: #bfb 1px solid; POSITION: relative; BORDER-LEFT: #bfb 1px solid; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em 0px 1em; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/icons/silk/accept.png) #dfd no-repeat 10px 3px; BORDER-TOP: #bfb 1px solid; BORDER-RIGHT: #bfb 1px solid; PADDING-TOP: 0.2em
+}
+.pending {
+	BACKGROUND: url(../dotnet/ajax-loader.gif) #ffd no-repeat 10px 3px
+}
+.info {
+	BORDER-BOTTOM: #9cf 1px solid; POSITION: relative; BORDER-LEFT: #9cf 1px solid; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em 0px 1em; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/icons/silk/information.png) #def no-repeat 10px 3px; BORDER-TOP: #9cf 1px solid; BORDER-RIGHT: #9cf 1px solid; PADDING-TOP: 0.2em
+}
+.topnav {
+	Z-INDEX: 10000 !important; POSITION: relative
+}
+.potm H2 SMALL {
+	POSITION: absolute; VERTICAL-ALIGN: middle; RIGHT: 1em; FONT-WEIGHT: bold
+}
+.potm H2 SPAN.rss {
+	BORDER-BOTTOM: #f40 1px solid; BORDER-LEFT: #f40 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; BACKGROUND: #f60; FONT-SIZE: 65%; BORDER-TOP: #f40 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #f40 1px solid; PADDING-TOP: 0px; text-shadow: none
+}
+.potm H2 SMALL A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0px
+}
+.topnav H2 SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 20em; PADDING-TOP: 0px
+}
+.topnav H2 SPAN A {
+	COLOR: #000
+}
+.topnav H2 {
+	MARGIN: -0.5em 0px 0px; FONT-SIZE: 115%
+}
+.potm H2 {
+	BORDER-BOTTOM: #789 1px solid; PADDING-BOTTOM: 0.1em; MARGIN: -0.5em 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 115%; PADDING-TOP: 0px
+}
+A.potm {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 1.5em; BACKGROUND: url(../dotnet/sfx/potm.gif) no-repeat right 50%; PADDING-TOP: 0px
+}
+A.notice {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: url(../dotnet/icons/silk/transmit_blue.png) no-repeat right 50%; PADDING-TOP: 5px
+}
+.projectsearch {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/magnifier.png) no-repeat 6px 4px; PADDING-TOP: 0px
+}
+.preview {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/magnifier.png) no-repeat 6px 4px; PADDING-TOP: 0px
+}
+.services {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/medal_gold_1.png) no-repeat; PADDING-TOP: 0px
+}
+.google_checkout {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 30px; BACKGROUND: url(../dotnet/sfx/badge.gif) no-repeat right top; PADDING-TOP: 1px
+}
+.paypal {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; BACKGROUND: url(../dotnet/sfx/logo_paypalPP_16x16.gif) no-repeat right top; PADDING-TOP: 1px
+}
+.about {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/user.png) no-repeat; PADDING-TOP: 0px
+}
+.print {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/printer.png) no-repeat; PADDING-TOP: 0px
+}
+.newitem {
+	PADDING-BOTTOM: 10px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(../dotnet/icons/silk/asterisk_orange.png) no-repeat; PADDING-TOP: 0px
+}
+.action {
+	PADDING-BOTTOM: 10px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(../dotnet/icons/silk/flag_red.png) no-repeat; PADDING-TOP: 0px
+}
+.read {
+	PADDING-BOTTOM: 10px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(../dotnet/icons/silk/email_open.png) no-repeat; PADDING-TOP: 0px
+}
+.unread {
+	PADDING-BOTTOM: 10px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(../dotnet/icons/silk/email.png) no-repeat; PADDING-TOP: 0px
+}
+#detail {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/cog.png) no-repeat; PADDING-TOP: 0px
+}
+#detailsToggle {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/cog.png) no-repeat; PADDING-TOP: 0px
+}
+.sel#detail {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/cog_add.png) no-repeat; PADDING-TOP: 0px
+}
+.sel#detailsToggle {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/cog_add.png) no-repeat; PADDING-TOP: 0px
+}
+#images {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/image_delete.png) no-repeat; PADDING-TOP: 0px
+}
+.sel#images {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/image_add.png) no-repeat; PADDING-TOP: 0px
+}
+.profile {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/vcard.png) no-repeat; PADDING-TOP: 0px
+}
+.contact {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/user_comment.png) no-repeat; PADDING-TOP: 0px
+}
+.pdf {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 20px; BACKGROUND: url(../dotnet/icons/silk/page_white_acrobat.png) no-repeat right 50%; PADDING-TOP: 5px
+}
+A.donate {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 180%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/money.png) no-repeat; MARGIN-LEFT: 1em; PADDING-TOP: 0px
+}
+A.rss {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 180%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/feed.png) no-repeat; MARGIN-LEFT: 1em; PADDING-TOP: 0px
+}
+A.acceptdonate {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 180%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/money_add.png) no-repeat; MARGIN-LEFT: 1em; PADDING-TOP: 0px
+}
+.security {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/lock.png) no-repeat; MARGIN-LEFT: 1em; PADDING-TOP: 5px
+}
+SMALL A.help {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2em; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/help.gif) no-repeat 6px 0px; PADDING-TOP: 0px
+}
+A.sitestats {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 180%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/chart_curve.png) no-repeat 0px 0px; MARGIN-LEFT: 1em; PADDING-TOP: 0px
+}
+.monitor {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 180%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/email_add.png) no-repeat; MARGIN-LEFT: 1em; PADDING-TOP: 0px
+}
+A.monitor_stop {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 180%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/email_delete.png) no-repeat; MARGIN-LEFT: 1em; PADDING-TOP: 0px
+}
+.changelog {
+	BACKGROUND: url(../dotnet/icons/silk/book.png) no-repeat right 50%
+}
+.notes {
+	BACKGROUND: url(../dotnet/icons/silk/paste_plain.png) no-repeat right 50%
+}
+.mirrors {
+	BACKGROUND: url(../dotnet/icons/silk/layers.png) no-repeat right 50%
+}
+.changelog {
+	PADDING-BOTTOM: 20px; TEXT-INDENT: -7000em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.notes {
+	PADDING-BOTTOM: 20px; TEXT-INDENT: -7000em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.mirrors {
+	PADDING-BOTTOM: 20px; TEXT-INDENT: -7000em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.mup {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/arrow_up.png) no-repeat; PADDING-TOP: 0px
+}
+.mdown {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/arrow_down.png) no-repeat; PADDING-TOP: 0px
+}
+.delete {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/delete.png) no-repeat; PADDING-TOP: 0px
+}
+.online {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/status_online.png) no-repeat; PADDING-TOP: 0px
+}
+.offline {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/status_offline.png) no-repeat; PADDING-TOP: 0px
+}
+.forum DIV .delete {
+	POSITION: absolute; DISPLAY: block; TOP: 0px; RIGHT: 0px
+}
+.forum TD DIV {
+	PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 30px !important; PADDING-TOP: 0px !important
+}
+.forum_message DIV A.delete {
+	POSITION: absolute; DISPLAY: block; TOP: 0px; RIGHT: 0px
+}
+.forum_message TD DIV {
+	PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 30px !important; PADDING-TOP: 0px !important
+}
+.add {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: -7000em; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/icons/silk/add.png) no-repeat; PADDING-TOP: 0px
+}
+.forum DIV .add {
+	POSITION: absolute; DISPLAY: block; TOP: 0px; RIGHT: 0px
+}
+.forum_message DIV .add {
+	POSITION: absolute; DISPLAY: block; TOP: 0px; RIGHT: 0px
+}
+.editing H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #789; PADDING-TOP: 0px
+}
+#navigation .titlebar DIV {
+	PADDING-RIGHT: 10em; DISPLAY: inline
+}
+#navigation INPUT {
+	WIDTH: 14em
+}
+#navigation .active TBODY TR:hover {
+	BACKGROUND: #eee
+}
+#navigation .options {
+	BORDER-BOTTOM: medium none; POSITION: relative; BORDER-LEFT: medium none; PADDING-BOTTOM: 5px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 5px
+}
+#navigation TR TH {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; FONT-SIZE: 85%; PADDING-TOP: 0.3em
+}
+#navigation TR TD {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; FONT-SIZE: 85% !important; PADDING-TOP: 0.3em
+}
+#navigation .options A {
+	POSITION: absolute; DISPLAY: block; TOP: 1px
+}
+#navigation .divider {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#navigation .vis {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#navigation .active {
+	
+}
+#navigation .add {
+	MARGIN-LEFT: 5px
+}
+#navigation .delete {
+	LEFT: 0px
+}
+#navigation .mup {
+	LEFT: 25px
+}
+#navigation .mdown {
+	LEFT: 40px
+}
+#frame DIV.forum {
+	POSITION: relative; TOP: 0px; LEFT: 0px
+}
+.mail_archive DIV A.delete {
+	POSITION: absolute; DISPLAY: block; TOP: 0px; RIGHT: 0px
+}
+.mail_archive TD DIV {
+	PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 30px !important; PADDING-TOP: 0px !important
+}
+.mail_archive DIV A.add {
+	POSITION: absolute; DISPLAY: block; TOP: 0px; RIGHT: 0px
+}
+.help {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 16px; BACKGROUND: url(../dotnet/icons/silk/help.png) no-repeat left 50%; PADDING-TOP: 0px
+}
+.edit {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 16px; BACKGROUND: url(../dotnet/icons/silk/pencil.png) no-repeat left 50%; PADDING-TOP: 0px
+}
+.browse {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 16px; BACKGROUND: url(../dotnet/icons/silk/find.png) no-repeat left 50%; PADDING-TOP: 0px
+}
+.editing {
+	BORDER-BOTTOM: #ccc 1px dotted; BORDER-LEFT: #ccc 1px dotted; PADDING-BOTTOM: 1em; MARGIN: 0.5em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BORDER-TOP: #ccc 1px dotted; BORDER-RIGHT: #ccc 1px dotted; PADDING-TOP: 1em
+}
+TEXTAREA.intro {
+	WIDTH: 27em
+}
+.project LI A.potm {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/potm.gif) no-repeat; PADDING-TOP: 0px
+}
+#frame P.brief {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 130%; MARGIN: 1em 0px; PADDING-LEFT: 1.6em; PADDING-RIGHT: 0px; COLOR: #56626d; FONT-SIZE: 70%; PADDING-TOP: 0px
+}
+#frame P.brief A {
+	COLOR: #56626d
+}
+TABLE {
+	EMPTY-CELLS: show
+}
+.zebra TR TD {
+	BORDER-BOTTOM: #eee 1px solid; BORDER-TOP: #bcd 1px solid; BORDER-RIGHT: #bcd 1px solid
+}
+.smlist THEAD TR TH {
+	BORDER-BOTTOM: #ddd 2px solid; COLOR: #444
+}
+.smlist TBODY TR TD {
+	BORDER-BOTTOM: #efefef 1px solid
+}
+.smlist TFOOT TR TD {
+	BORDER-TOP: #ddd 2px solid
+}
+.smlist THEAD TH {
+	FONT-SIZE: 85%
+}
+.smlist THEAD TH {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.8em; PADDING-LEFT: 1em; PADDING-RIGHT: 2em; PADDING-TOP: 0.8em
+}
+.smlist TBODY TD {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.8em; PADDING-LEFT: 1em; PADDING-RIGHT: 2em; PADDING-TOP: 0.8em
+}
+.smlist TFOOT TD {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.8em; PADDING-LEFT: 1em; PADDING-RIGHT: 2em; PADDING-TOP: 0.8em
+}
+.smlist TBODY TD A {
+	PADDING-BOTTOM: 1px !important; TEXT-INDENT: 0px; MARGIN: 0px; MIN-HEIGHT: 20px; PADDING-LEFT: 20px !important; PADDING-RIGHT: 0px !important; PADDING-TOP: 0px !important
+}
+.smlist TFOOT TD A {
+	PADDING-BOTTOM: 1px !important; TEXT-INDENT: 0px; MARGIN: 0px; MIN-HEIGHT: 20px; PADDING-LEFT: 20px !important; PADDING-RIGHT: 0px !important; PADDING-TOP: 0px !important
+}
+#frelease {
+	MARGIN: 1em 0px; WIDTH: 94% !important
+}
+TABLE CAPTION {
+	DISPLAY: none
+}
+#frelease COL {
+	WIDTH: 20%
+}
+#frelease COL.package TR TD {
+	FONT-WEIGHT: bold
+}
+#frelease TD.download {
+	TEXT-ALIGN: center; BACKGROUND: #093
+}
+#frelease TD.download A {
+	COLOR: #fff; FONT-WEIGHT: bold
+}
+#stripes TR {
+	POSITION: relative !important
+}
+#frelease TR {
+	POSITION: relative !important
+}
+.zebra TR {
+	POSITION: relative !important
+}
+#stripes {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #345 1px solid; WIDTH: 100%; FONT-SIZE: 80%; BORDER-TOP: #345 1px solid; BORDER-RIGHT: #345 1px solid
+}
+#frelease {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #345 1px solid; WIDTH: 100%; FONT-SIZE: 80%; BORDER-TOP: #345 1px solid; BORDER-RIGHT: #345 1px solid
+}
+.zebra {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #345 1px solid; WIDTH: 100%; FONT-SIZE: 80%; BORDER-TOP: #345 1px solid; BORDER-RIGHT: #345 1px solid
+}
+#stripes TR TH {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; BACKGROUND: #46525d; COLOR: #fff; PADDING-TOP: 0.2em
+}
+#frelease TR TH {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; BACKGROUND: #46525d; COLOR: #fff; PADDING-TOP: 0.2em
+}
+.zebra TR TH {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; BACKGROUND: #46525d; COLOR: #fff; PADDING-TOP: 0.2em
+}
+#frelease TR TH {
+	TEXT-ALIGN: center
+}
+#stripes TR.package TD {
+	BACKGROUND: url(../dotnet/sfx/main_select_bg.gif) #789 repeat-x 50% top; COLOR: #fff; FONT-SIZE: 130%; FONT-WEIGHT: bold
+}
+#stripes TR.package TD A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#stripes TD {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0.1em
+}
+#frelease TD {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0.1em
+}
+.zebra TD {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0.1em
+}
+#stripes TBODY TR.release {
+	DISPLAY: table-row
+}
+#stripes TBODY TR TD {
+	BACKGROUND: #fff
+}
+.zebra TBODY TR TD {
+	BACKGROUND: #fff
+}
+#frelease TBODY TR TD {
+	TEXT-ALIGN: center; BORDER-TOP: #fff 1px solid
+}
+#frelease TBODY TR.package TD {
+	TEXT-ALIGN: left
+}
+#stripes TBODY TR.release TD {
+	BORDER-BOTTOM: #789 1px solid; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; BACKGROUND: #fff; BORDER-TOP: #789 1px solid; FONT-WEIGHT: bold; PADDING-TOP: 0.2em
+}
+#stripes TBODY TR TD.even {
+	BACKGROUND: #f3f4f6
+}
+#frelease TBODY TR TD {
+	BACKGROUND: #f3f4f6
+}
+.zebra TBODY TR TD.even {
+	BACKGROUND: #f3f4f6
+}
+#stripes TH SMALL {
+	COLOR: #fff
+}
+#frelease TH SMALL {
+	COLOR: #fff
+}
+.zebra TH SMALL {
+	COLOR: #fff
+}
+#stripes SMALL {
+	FONT-WEIGHT: normal
+}
+#frelease SMALL {
+	FONT-WEIGHT: normal
+}
+.zebra SMALL {
+	FONT-WEIGHT: normal
+}
+#stripes COL {
+	WIDTH: 10%
+}
+.zebra COL {
+	WIDTH: 10%
+}
+#stripes COL.filename {
+	WIDTH: 40%
+}
+#stripes TFOOT {
+	BACKGROUND: #89a; COLOR: #fff; FONT-WEIGHT: bold
+}
+.zebra TFOOT {
+	BACKGROUND: #89a; COLOR: #fff; FONT-WEIGHT: bold
+}
+#stripes TBODY TR TD SMALL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 14px; PADDING-TOP: 4px
+}
+#stripes .changelog {
+	POSITION: relative; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; MARGIN-LEFT: 0px; PADDING-TOP: 10px
+}
+#stripes .notes {
+	POSITION: relative; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; MARGIN-LEFT: 0px; PADDING-TOP: 10px
+}
+#stripes .mirrors {
+	POSITION: relative; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; MARGIN-LEFT: 0px; PADDING-TOP: 10px
+}
+#stripes .changelog A {
+	POSITION: absolute; PADDING-BOTTOM: 10px; TEXT-INDENT: -7000em; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; PADDING-TOP: 10px
+}
+#stripes .notes A {
+	POSITION: absolute; PADDING-BOTTOM: 10px; TEXT-INDENT: -7000em; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; PADDING-TOP: 10px
+}
+#stripes .mirrors A {
+	POSITION: absolute; PADDING-BOTTOM: 10px; TEXT-INDENT: -7000em; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; PADDING-TOP: 10px
+}
+.show {
+	
+}
+#stripes TBODY TR.current TD {
+	BACKGROUND: #dfd
+}
+.potm IMG {
+	FLOAT: right
+}
+.potm P {
+	CLEAR: both
+}
+.potm DIV.tagline {
+	PADDING-BOTTOM: 25px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/potm_50x50.gif) no-repeat left 50%; FONT-SIZE: 80%; PADDING-TOP: 25px
+}
+.potm H3.tagline {
+	PADDING-BOTTOM: 25px; MARGIN: 0px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/potm_50x50.gif) no-repeat left 50%; COLOR: #56626d; PADDING-TOP: 25px
+}
+.potm H3.tagline IMG {
+	MARGIN: 0px; FLOAT: right
+}
+.potm H2 SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 12em; PADDING-TOP: 0px
+}
+.topnav H2 SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 12em; PADDING-TOP: 0px
+}
+.shadow {
+	PADDING-BOTTOM: 25px; BACKGROUND: url(../dotnet/sfx/ss_shadow.gif) no-repeat 50% bottom
+}
+#frame TABLE#searchtable TD.description IMG {
+	PADDING-BOTTOM: 25px; BACKGROUND: url(../dotnet/sfx/ss_shadow.gif) no-repeat 50% bottom
+}
+#frame P {
+	LINE-HEIGHT: 130%; FONT-SIZE: 82.3%
+}
+#frame .onewidetop P {
+	MARGIN: 0.5em 1.4em 1em
+}
+#frame .onewide P {
+	MARGIN: 0.5em 1.4em 1em
+}
+#frame .onewidebtm P {
+	MARGIN: 0.5em 1.4em 1em
+}
+#frame .four P {
+	MARGIN: 0.5em 1.4em 1em
+}
+#frame P.sfx {
+	MARGIN: 0.5em 1.4em 1em
+}
+#frame LI {
+	FONT-SIZE: 82.3%
+}
+#fadbtm LI {
+	FONT-SIZE: 82.3%
+}
+.onewidetop UL {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0.5em 1em 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #c1cacf 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 0px
+}
+.onewide UL {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0.5em 1em 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #c1cacf 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 0px
+}
+UL.clean {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0.5em 1em 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #c1cacf 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 0px
+}
+.onewidetop UL LI {
+	BORDER-BOTTOM: #c1cacf 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 0.5em; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; BORDER-TOP: #fff 1px solid; LIST-STYLE-IMAGE: none; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 0.5em
+}
+.onewide UL LI {
+	BORDER-BOTTOM: #c1cacf 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 0.5em; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; BORDER-TOP: #fff 1px solid; LIST-STYLE-IMAGE: none; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 0.5em
+}
+UL.clean LI {
+	BORDER-BOTTOM: #c1cacf 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 0.5em; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; BORDER-TOP: #fff 1px solid; LIST-STYLE-IMAGE: none; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 0.5em
+}
+.break {
+	CLEAR: both
+}
+.breakleft {
+	CLEAR: left
+}
+.screenshot {
+	Z-INDEX: 1000; BORDER-BOTTOM: #fff 15px solid; POSITION: relative; BORDER-LEFT: #fff 15px solid; FLOAT: right; BORDER-TOP: #fff 15px solid; BORDER-RIGHT: #fff 15px solid
+}
+DIV.docs#innerframe H2 {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-SIZE: 120%; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV.docs#innerframe H2 A#top {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.SD LI {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0.5em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.SD DT {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 3.7em; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+DIV.SDleftcol A {
+	LINE-HEIGHT: 90%; COLOR: #ccc; FONT-SIZE: 80%; TEXT-DECORATION: none
+}
+DIV.SDleftcol {
+	FONT-SIZE: 120%; FONT-WEIGHT: bold
+}
+DIV.SDbottom {
+	BORDER-BOTTOM: #666 3px groove; BORDER-LEFT: #666 3px groove; PADDING-BOTTOM: 0.5em; MARGIN: 4em auto; PADDING-LEFT: 0px; WIDTH: 70%; PADDING-RIGHT: 0px; BACKGROUND: #ccc; BORDER-TOP: #666 3px groove; BORDER-RIGHT: #666 3px groove; PADDING-TOP: 0.5em
+}
+DIV.SDtoc {
+	BORDER-BOTTOM: #999 1px solid; BORDER-LEFT: #999 1px solid; MARGIN: 0px auto 2em; WIDTH: 70%; BACKGROUND: #ccc; BORDER-TOP: #999 1px solid; BORDER-RIGHT: #999 1px solid
+}
+DIV.SDtoc P {
+	TEXT-ALIGN: center; FONT-WEIGHT: bold
+}
+#footer {
+	Z-INDEX: 1000; POSITION: relative; TEXT-ALIGN: center; MARGIN: 1em; BACKGROUND: #fff; CLEAR: both
+}
+#footer UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#footer UL LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+#footer UL LI A {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0.6em; PADDING-RIGHT: 0.6em; DISPLAY: inline; FONT-SIZE: 70%; PADDING-TOP: 0px
+}
+#footer P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0.6em; PADDING-RIGHT: 0.6em; DISPLAY: inline; FONT-SIZE: 70%; PADDING-TOP: 0px
+}
+#formname {
+	MARGIN: 0px 0px 1em 1.3em; FONT-SIZE: 80%
+}
+FORM LABEL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM LABEL SMALL {
+	MARGIN: 0.2em; DISPLAY: block
+}
+FORM SMALL {
+	WHITE-SPACE: normal
+}
+.date {
+	WHITE-SPACE: nowrap
+}
+.tag {
+	MARGIN: 0.3em 0px 0.6em 200px; FLOAT: left; COLOR: #56626d; FONT-SIZE: 75%; FONT-WEIGHT: bold
+}
+#frame .seven UL.clean {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+PRE {
+	FONT-SIZE: 130%
+}
+DIV.filteroptions {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: right; BORDER-LEFT: #9faab0 1px solid; BACKGROUND: url(../dotnet/sfx/main_select_bg.gif) #789 repeat-x 50% top; CLEAR: both; BORDER-TOP: #9faab0 1px solid; BORDER-RIGHT: #9faab0 1px solid
+}
+.search FORM LABEL {
+	DISPLAY: inline
+}
+.null {
+	Z-INDEX: 1; PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.left_column {
+	WIDTH: 69%
+}
+.left_column P {
+	PADDING-LEFT: 1em; PADDING-RIGHT: 1em
+}
+.right_column {
+	MARGIN: 1em 0px 0px 1em; WIDTH: 28%; FLOAT: right
+}
+.right_column P {
+	MARGIN: 0px 0px 1em 1em
+}
+.right_column .tbar {
+	MARGIN: 0px 0px 0.5em
+}
+.right_column UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0.8em 0.3em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#frame OL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1.8em; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.right_column LI {
+	BORDER-BOTTOM: #ddd 1px solid; PADDING-BOTTOM: 0.3em; LIST-STYLE-TYPE: none; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0.2em
+}
+.right_column LI A:hover {
+	COLOR: #039
+}
+#frame .catmap LI {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+#frame .catmap UL LI {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#frame .pmap UL LI {
+	FONT-SIZE: 100%
+}
+#frame .catmap UL LI {
+	FONT-SIZE: 100%
+}
+#frame .pmap UL LI {
+	BORDER-BOTTOM: medium none; POSITION: relative; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px -2.4em; PADDING-LEFT: 1em; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_drop5.gif) no-repeat left top; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#frame .pmap UL LI INPUT {
+	MARGIN-LEFT: 1.5em
+}
+#frame .pmap UL LI A {
+	MARGIN-LEFT: 1.5em
+}
+#frame .pmap UL LI.end {
+	PADDING-BOTTOM: 0.3em; BACKGROUND: url(../dotnet/sfx/icon_drop4.gif) no-repeat left top
+}
+#frame .pmap UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 2.4em; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_drop3.gif) repeat-y left top; PADDING-TOP: 0px
+}
+#frame .pmap {
+	POSITION: relative
+}
+#frame .pmap UL {
+	POSITION: relative
+}
+#frame .pmap UL SPAN {
+	POSITION: absolute; LEFT: 1.2em
+}
+#frame #miss0_1 .pmap UL LI {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 2em; PADDING-RIGHT: 2em; PADDING-TOP: 0.1em
+}
+#frame #miss0_1 .pmap LI INPUT {
+	MARGIN: 0px 0px 0px -0.1em
+}
+#frame #miss0_1 .pmap {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#frame #miss0_1 .pmap LI {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.current {
+	FONT-WEIGHT: bold
+}
+.current UL LI {
+	FONT-WEIGHT: normal
+}
+.advancedpage P {
+	MARGIN-LEFT: 1em
+}
+.advancedpage .subtitle {
+	MARGIN-LEFT: 1em
+}
+.adv {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_adv.gif) no-repeat left 50%; PADDING-TOP: 2px
+}
+H2 SPAN.adv {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 SPAN.adv A {
+	MARGIN: 0px 0px 0px 20px; FONT-SIZE: 70%; FONT-WEIGHT: normal
+}
+.filteroptions {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; COLOR: #789; FONT-SIZE: 80%; FONT-WEIGHT: bold; PADDING-TOP: 0.1em
+}
+SMALL.options {
+	MARGIN: -0.2em 0px 1em; FLOAT: right; FONT-SIZE: 70%
+}
+TABLE .filteroptions {
+	CLEAR: none !important
+}
+#secondwave LI {
+	LIST-STYLE-TYPE: none; DISPLAY: inline; LIST-STYLE-IMAGE: none
+}
+#secondwave {
+	BORDER-BOTTOM: #adb9c4 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0.8em 0px 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#secondwave LI A {
+	BORDER-BOTTOM: #a4b1bd 1px solid; BORDER-LEFT: #96a3b1 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BACKGROUND: #adb9c4; COLOR: #fff; BORDER-TOP: #96a3b1 1px solid; BORDER-RIGHT: #96a3b1 1px solid; PADDING-TOP: 0px
+}
+#secondwave LI#current A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: #adb9c4 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BACKGROUND: #fff; COLOR: #789; BORDER-TOP: #adb9c4 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #adb9c4 1px solid; PADDING-TOP: 0.3em
+}
+#secondwave LI.selected A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: #adb9c4 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BACKGROUND: #fff; COLOR: #789; BORDER-TOP: #adb9c4 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #adb9c4 1px solid; PADDING-TOP: 0.3em
+}
+#secondwave UL {
+	BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium none; PADDING-BOTTOM: 0.3em; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0.3em; LEFT: 0px
+}
+#secondwave LI UL LI A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-SIZE: 120% !important; BORDER-TOP: medium none; FONT-WEIGHT: normal !important; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#secondwave UL LI.selected A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; FONT-WEIGHT: bold !important; BORDER-RIGHT: medium none
+}
+.searchin {
+	POSITION: absolute; LEFT: 30em
+}
+.topform LABEL {
+	TEXT-ALIGN: left; MARGIN: 0px 0.5em 0px 0px; WIDTH: 14em; FLOAT: left; CLEAR: left
+}
+.topform INPUT {
+	WIDTH: 11em
+}
+.btmform LABEL {
+	POSITION: absolute; LEFT: 2.6em
+}
+.btmform P {
+	MARGIN-LEFT: 12em
+}
+#sortselect_pm SPAN {
+	WHITE-SPACE: nowrap
+}
+#sortselect_pm {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 3em; PADDING-TOP: 0px
+}
+.btmform SPAN SMALL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0.2em
+}
+#soptions {
+	PADDING-LEFT: 0.3em; FLOAT: left; COLOR: #789; FONT-SIZE: 70%; FONT-WEIGHT: bold
+}
+#soptions1 {
+	PADDING-LEFT: 0.3em; FLOAT: left; COLOR: #789; FONT-SIZE: 70%; FONT-WEIGHT: bold
+}
+.new {
+	PADDING-LEFT: 1.3em; BACKGROUND: url(../dotnet/sfx/widget_sep.gif) no-repeat left top; MARGIN-LEFT: 1em
+}
+.cal {
+	PADDING-BOTTOM: 3px; LINE-HEIGHT: 140%; MARGIN: 0px 1em 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; BACKGROUND: url(../dotnet/sfx/icon_cal.gif) no-repeat right 50%; PADDING-TOP: 2px
+}
+.cal INPUT {
+	WIDTH: 7em
+}
+#f-calendar-trigger-1 IMG {
+	MARGIN: -0.8em 0px 0px 0.2em
+}
+#f-calendar-trigger-2 IMG {
+	MARGIN: -0.8em 0px 0px 0.2em
+}
+#f-calendar-trigger-3 IMG {
+	MARGIN: -0.8em 0px 0px 0.2em
+}
+#f-calendar-trigger-4 IMG {
+	MARGIN: -0.8em 0px 0px 0.2em
+}
+A.advanced {
+	FONT-SIZE: 70%; FONT-WEIGHT: normal
+}
+A.advanced:visited {
+	FONT-SIZE: 70%; FONT-WEIGHT: normal
+}
+.projectsearch {
+	POSITION: absolute; MARGIN: -0.3em 0px 0px; TOP: 0px; RIGHT: 0px
+}
+.tright {
+	POSITION: absolute; MARGIN: -0.3em 0px 0px; TOP: 0px; RIGHT: 0px
+}
+.topnav FORM .advanced {
+	FONT-SIZE: 70%
+}
+.projectsearch INPUT {
+	FONT-SIZE: 70%
+}
+INPUT.passive {
+	WIDTH: 8em; COLOR: #789
+}
+INPUT.active {
+	WIDTH: 8em; COLOR: #000
+}
+#frame .project .clean {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.user {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_user.gif) no-repeat; PADDING-TOP: 0px
+}
+#filter0_2 .user {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_user2.gif) no-repeat; PADDING-TOP: 0px
+}
+.lookma {
+	Z-INDEX: 1000; BORDER-BOTTOM: #fd0 3px solid; POSITION: absolute; TEXT-ALIGN: left; BORDER-LEFT: #fd0 3px solid; PADDING-BOTTOM: 0.3em; MARGIN-TOP: -1em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; BACKGROUND: #ffc; FLOAT: left; BORDER-TOP: #fd0 3px solid; BORDER-RIGHT: #fd0 3px solid; PADDING-TOP: 0.3em; LEFT: 23em
+}
+.searchma {
+	Z-INDEX: 1000; BORDER-BOTTOM: #fd0 3px solid; POSITION: absolute; TEXT-ALIGN: left; BORDER-LEFT: #fd0 3px solid; PADDING-BOTTOM: 0.3em; MARGIN-TOP: -1em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; BACKGROUND: #ffc; FLOAT: left; BORDER-TOP: #fd0 3px solid; BORDER-RIGHT: #fd0 3px solid; PADDING-TOP: 0.3em; LEFT: 15em
+}
+.lookma INPUT {
+	MARGIN: 0.6em; DISPLAY: block
+}
+.searchma INPUT {
+	MARGIN: 0.6em; DISPLAY: block
+}
+.lookma SPAN {
+	BORDER-BOTTOM: #fc0 1px solid; POSITION: absolute; TEXT-ALIGN: center; BORDER-LEFT: #fc0 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0.2em; PADDING-LEFT: 0.2em; WIDTH: 0.7em; PADDING-RIGHT: 0.2em; BACKGROUND: #fb0; COLOR: #ffc; FONT-SIZE: 1em; BORDER-TOP: #fc0 1px solid; TOP: 0px; RIGHT: 0px; BORDER-RIGHT: #fc0 1px solid; PADDING-TOP: 0px
+}
+.searchma SPAN {
+	BORDER-BOTTOM: #fc0 1px solid; POSITION: absolute; TEXT-ALIGN: center; BORDER-LEFT: #fc0 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0.2em; PADDING-LEFT: 0.2em; WIDTH: 0.7em; PADDING-RIGHT: 0.2em; BACKGROUND: #fb0; COLOR: #ffc; FONT-SIZE: 1em; BORDER-TOP: #fc0 1px solid; TOP: 0px; RIGHT: 0px; BORDER-RIGHT: #fc0 1px solid; PADDING-TOP: 0px
+}
+#ranktable {
+	FONT-SIZE: 80%
+}
+#frame TABLE TR TD.rankcalc {
+	FONT-SIZE: 80%
+}
+.firstwave LI {
+	LIST-STYLE-TYPE: none; DISPLAY: inline; FONT-SIZE: 75% !important; LIST-STYLE-IMAGE: none
+}
+.firstwave .nav {
+	Z-INDEX: 10000 !important; POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.firstwave LI A {
+	BORDER-BOTTOM: #789 1px solid; BORDER-LEFT: #89a 1px solid; PADDING-RIGHT: 14px !important; BACKGROUND: url(../dotnet/sfx/nav_dwn.gif) #9ab no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #89a 1px solid; BORDER-RIGHT: #89a 1px solid
+}
+.firstwave LI SPAN {
+	BORDER-BOTTOM: #789 1px solid; BORDER-LEFT: #89a 1px solid; PADDING-RIGHT: 14px !important; BACKGROUND: url(../dotnet/sfx/nav_dwn.gif) #9ab no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #89a 1px solid; BORDER-RIGHT: #89a 1px solid
+}
+.firstwave LI A.nosub {
+	BACKGROUND-IMAGE: none !important; PADDING-RIGHT: 0.4em !important
+}
+.firstwave LI#current A {
+	BORDER-BOTTOM: #fff 1px solid; POSITION: relative; BORDER-LEFT: #789 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/sfx/nav_dwn.gif) #fff no-repeat right bottom; COLOR: #345 !important; BORDER-TOP: #789 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #789 1px solid; PADDING-TOP: 0.3em
+}
+.firstwave LI.selected A {
+	BORDER-BOTTOM: #fff 1px solid; POSITION: relative; BORDER-LEFT: #789 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/sfx/nav_dwn.gif) #fff no-repeat right bottom; COLOR: #345 !important; BORDER-TOP: #789 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #789 1px solid; PADDING-TOP: 0.3em
+}
+.firstwave LI.selected SPAN {
+	BORDER-BOTTOM: #fff 1px solid; POSITION: relative; BORDER-LEFT: #789 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/sfx/nav_dwn.gif) #fff no-repeat right bottom; COLOR: #345 !important; BORDER-TOP: #789 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #789 1px solid; PADDING-TOP: 0.3em
+}
+.firstwave LI#current SPAN {
+	BORDER-BOTTOM: #fff 1px solid; POSITION: relative; BORDER-LEFT: #789 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/sfx/nav_dwn.gif) #fff no-repeat right bottom; COLOR: #345 !important; BORDER-TOP: #789 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #789 1px solid; PADDING-TOP: 0.3em
+}
+.firstwave LI.selected.admin A {
+	BORDER-BOTTOM: #fff 1px solid; POSITION: relative; BORDER-LEFT: #789 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/sfx/nav_dwn.gif) #fff no-repeat right bottom; COLOR: #345 !important; BORDER-TOP: #789 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #789 1px solid; PADDING-TOP: 0.3em
+}
+.firstwave LI.selected.admin A {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; PADDING-TOP: 0.1em
+}
+.firstwave UL {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0.3em
+}
+.firstwave LI UL LI A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 2px; MARGIN: 0px 0px 0.4em; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #cde !important; BORDER-TOP: medium none; FONT-WEIGHT: normal !important; BORDER-RIGHT: medium none; PADDING-TOP: 0.3em
+}
+.firstwave UL LI.selected A {
+	FONT-WEIGHT: bold !important
+}
+.firstwave .nav LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px 0px -1.1px 0.4em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+.firstwave .nav LI LI {
+	PADDING-BOTTOM: 0px !important; MARGIN: 0px; PADDING-LEFT: 0px !important; PADDING-RIGHT: 0px !important; PADDING-TOP: 0px !important
+}
+.firstwave LI LI {
+	MARGIN: 0.6em 0.2em 0.6em 0px; DISPLAY: block !important; FONT-SIZE: 100% !important
+}
+.firstwave .nav LI A {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; DISPLAY: block; TEXT-DECORATION: none; PADDING-TOP: 0.1em
+}
+.firstwave .nav LI SPAN {
+	PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; DISPLAY: block; TEXT-DECORATION: none; PADDING-TOP: 0.1em
+}
+.firstwave .nav LI A:hover {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave .nav LI.admin A:hover {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave .nav LI SPAN:hover {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave .nav LI.admin SPAN:hover {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave LI:hover A {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave LI.admin:hover A {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave LI.sfHover A {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave LI:hover SPAN {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave LI.admin:hover SPAN {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave LI.sfHover SPAN {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #234 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn1.gif) #345 no-repeat right bottom; COLOR: #fff !important; BORDER-TOP: #234 1px solid; BORDER-RIGHT: #234 1px solid
+}
+.firstwave LI.admin:hover UL A {
+	BORDER-BOTTOM: #345 1px solid; PADDING-BOTTOM: 0.1em !important; PADDING-LEFT: 20px !important; PADDING-RIGHT: 0px !important; BACKGROUND: #345; COLOR: #cde !important; BORDER-TOP: #345 1px solid; FONT-WEIGHT: normal !important; PADDING-TOP: 0.1em !important
+}
+.firstwave LI:hover UL A {
+	BORDER-BOTTOM: #345 1px solid; PADDING-BOTTOM: 0.1em !important; PADDING-LEFT: 20px !important; PADDING-RIGHT: 0px !important; BACKGROUND: #345; COLOR: #cde !important; BORDER-TOP: #345 1px solid; FONT-WEIGHT: normal !important; PADDING-TOP: 0.1em !important
+}
+.firstwave LI.sfHover UL A {
+	BORDER-BOTTOM: #345 1px solid; PADDING-BOTTOM: 0.1em !important; PADDING-LEFT: 20px !important; PADDING-RIGHT: 0px !important; BACKGROUND: #345; COLOR: #cde !important; BORDER-TOP: #345 1px solid; FONT-WEIGHT: normal !important; PADDING-TOP: 0.1em !important
+}
+.firstwave LI:hover UL A:hover {
+	BORDER-BOTTOM: #234 1px solid; BACKGROUND: #89a; COLOR: #fff !important; BORDER-TOP: #9ab 1px solid
+}
+.firstwave LI.sfHover UL A:hover {
+	BORDER-BOTTOM: #234 1px solid; BACKGROUND: #89a; COLOR: #fff !important; BORDER-TOP: #9ab 1px solid
+}
+.firstwave .nav UL {
+	Z-INDEX: 10002 !important; BORDER-BOTTOM: #234 1px solid; POSITION: absolute; BORDER-LEFT: #234 1px solid; LIST-STYLE-TYPE: none; MARGIN: 0px; BACKGROUND: #345; BORDER-TOP: medium none; TOP: -999em; LIST-STYLE-IMAGE: none; BORDER-RIGHT: #234 1px solid; PADDING-TOP: 0.5em; LEFT: 0px
+}
+.firstwave .nav LI:hover UL {
+	WIDTH: 14em; TOP: 1.45em
+}
+.firstwave .nav LI.sfHover UL {
+	WIDTH: 14em; TOP: 1.45em
+}
+.firstwave .nav UL LI {
+	FLOAT: none
+}
+.firstwave .nav UL A:hover {
+	BACKGROUND: #456; COLOR: #fff
+}
+.firstwave .nav UL LI.tools DIV {
+	BORDER-BOTTOM: #234 1px solid; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 5px !important; PADDING-RIGHT: 0px !important; COLOR: #789 !important; BORDER-TOP: #678 1px solid; PADDING-TOP: 0px !important
+}
+.firstwave .nav UL LI.toolsadmin DIV {
+	BORDER-BOTTOM: #234 1px solid; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 5px !important; PADDING-RIGHT: 0px !important; COLOR: #789 !important; BORDER-TOP: #678 1px solid; PADDING-TOP: 0px !important
+}
+.firstwave .nav UL LI.subdiv DIV {
+	BORDER-BOTTOM: #234 1px solid; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 5px !important; PADDING-RIGHT: 0px !important; COLOR: #789 !important; BORDER-TOP: #678 1px solid; PADDING-TOP: 0px !important
+}
+.firstwave .nav UL LI.tools SPAN {
+	BORDER-BOTTOM: medium none; POSITION: relative; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: -0.7em 0px 10px; PADDING-LEFT: 5px; WIDTH: 2.5em; PADDING-RIGHT: 5px; BACKGROUND: #345; COLOR: #789 !important; FONT-SIZE: 80%; BORDER-TOP: medium none; FONT-WEIGHT: bold; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.firstwave .nav UL LI.toolsadmin SPAN {
+	BORDER-BOTTOM: medium none; POSITION: relative; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: -0.7em 0px 10px; PADDING-LEFT: 5px; WIDTH: 2.5em; PADDING-RIGHT: 5px; BACKGROUND: #345; COLOR: #789 !important; FONT-SIZE: 80%; BORDER-TOP: medium none; FONT-WEIGHT: bold; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.firstwave .nav UL LI.subdiv SPAN {
+	BORDER-BOTTOM: medium none; POSITION: relative; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: -0.7em 0px 10px; PADDING-LEFT: 5px; WIDTH: 2.5em; PADDING-RIGHT: 5px; BACKGROUND: #345; COLOR: #789 !important; FONT-SIZE: 80%; BORDER-TOP: medium none; FONT-WEIGHT: bold; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.firstwave .nav UL LI.subdiv SPAN {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.firstwave LI.website {
+	PADDING-BOTTOM: 0px !important; MARGIN: -3px -9px 0px 0px; PADDING-LEFT: 0px !important; PADDING-RIGHT: 0px !important; FLOAT: right !important; PADDING-TOP: 0px !important
+}
+.firstwave .nav LI.website A:hover {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 20px !important; COLOR: #03c !important; FONT-SIZE: 95% !important; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 3px !important
+}
+.firstwave .nav LI.webiste SPAN:hover {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 20px !important; COLOR: #03c !important; FONT-SIZE: 95% !important; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 3px !important
+}
+.firstwave LI.website A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 20px !important; COLOR: #03c !important; FONT-SIZE: 95% !important; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 3px !important
+}
+.firstwave LI.admin A {
+	BORDER-BOTTOM: #700 1px solid; BORDER-LEFT: #700 1px solid; BACKGROUND: url(../dotnet/sfx/nav_dwn3.gif) #800 no-repeat right bottom; BORDER-TOP: #700 1px solid; BORDER-RIGHT: #700 1px solid
+}
+#thirdwave {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; CLEAR: both; BORDER-TOP: #789 1px solid; PADDING-TOP: 0.3em
+}
+#thirdwave UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#thirdwave LI {
+	DISPLAY: inline
+}
+#thirdwave LI A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 16px; PADDING-TOP: 0px
+}
+#thirdwave LI.selected A {
+	COLOR: #345; FONT-WEIGHT: bold
+}
+#thirdwave LI.begin A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 16px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#frs .filename {
+	COLOR: #789
+}
+#frs .changelog {
+	Z-INDEX: 1; POSITION: absolute; TEXT-INDENT: -7000em; MIN-HEIGHT: 16px; WIDTH: 16px; HEIGHT: 16px; TOP: 0px; LEFT: 0px
+}
+#frs .notes {
+	Z-INDEX: 1; POSITION: absolute; TEXT-INDENT: -7000em; MIN-HEIGHT: 16px; WIDTH: 16px; HEIGHT: 16px; TOP: 0px; LEFT: 0px
+}
+#frs .mirrors {
+	Z-INDEX: 1; POSITION: absolute; TEXT-INDENT: -7000em; MIN-HEIGHT: 16px; WIDTH: 16px; HEIGHT: 16px; TOP: 0px; LEFT: 0px
+}
+#frs .changelog {
+	Z-INDEX: 3; LEFT: 10px
+}
+#frs .notes {
+	Z-INDEX: 2; LEFT: 30px
+}
+#frs .mirrors {
+	Z-INDEX: 1; LEFT: 50px
+}
+#frs .downloadbar SMALL A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 0px; COLOR: #fff; PADDING-TOP: 0px
+}
+#frs .downloadbar SMALL {
+	POSITION: absolute !important; TOP: 0.3em; RIGHT: -14em
+}
+#additional_files SMALL {
+	POSITION: relative; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#frs #additional_files .changelog {
+	TOP: -22px
+}
+#frs #additional_files .notes {
+	TOP: -22px
+}
+#frs #additional_files .mirrors {
+	TOP: -22px
+}
+#frs #additional_files {
+	POSITION: relative
+}
+#frs #primary_file {
+	POSITION: relative
+}
+.editing#frs TEXTAREA {
+	WIDTH: 60%
+}
+.editing .edit {
+	POSITION: absolute; TEXT-INDENT: -7000em; WIDTH: 16px
+}
+.editing .delete {
+	POSITION: absolute; TEXT-INDENT: -7000em; WIDTH: 16px
+}
+.editing .delete {
+	MARGIN-LEFT: 20px
+}
+.editing #filename_id {
+	MARGIN-LEFT: 40px
+}
+#additional_file_links SPAN SPAN {
+	MARGIN-LEFT: 40px
+}
+.editing A #filename_id {
+	MARGIN-LEFT: 0px
+}
+.sethide {
+	COLOR: #039
+}
+.apple {
+	PADDING-BOTTOM: 1px; LINE-HEIGHT: 140%; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_apple.gif) no-repeat left top; PADDING-TOP: 0px
+}
+.windows {
+	PADDING-BOTTOM: 1px; LINE-HEIGHT: 140%; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_windows.gif) no-repeat left top; PADDING-TOP: 0px
+}
+#innerframe .linux {
+	PADDING-BOTTOM: 1px; LINE-HEIGHT: 140%; PADDING-LEFT: 20px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../dotnet/sfx/icon_linux.gif) no-repeat left top; PADDING-TOP: 0px
+}
+.default {
+	PADDING-BOTTOM: 1px; LINE-HEIGHT: 140%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.other {
+	PADDING-BOTTOM: 1px; LINE-HEIGHT: 140%; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.docman PRE {
+	FONT-SIZE: 100%
+}
+.dynimo LI LABEL {
+	FONT-WEIGHT: normal
+}
+.new_forum_message:after {
+	CONTENT: ' (New) '
+}
+.addbutton {
+	POSITION: relative; MARGIN: 0.5em 0px; DISPLAY: block
+}
+.questionbox {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #151115; MARGIN: 10px; PADDING-LEFT: 10px; WIDTH: 340px; PADDING-RIGHT: 10px; FONT-FAMILY: monospace; FLOAT: right; HEIGHT: 200px; COLOR: #c60; PADDING-TOP: 5px
+}
+.questiontitle {
+	FONT-FAMILY: monospace; COLOR: #b00; FONT-SIZE: 150%; FONT-WEIGHT: bold
+}
+.answerfootnote {
+	TEXT-ALIGN: right; FONT-SIZE: 60%
+}
+.expanded {
+	PADDING-BOTTOM: 0px !important; PADDING-LEFT: 20px !important; PADDING-RIGHT: 0px !important; BACKGROUND: url(../dotnet/icons/icon_expand.gif) no-repeat left top; FONT-SIZE: 80%; CURSOR: pointer; PADDING-TOP: 0px !important
+}
+.contracted {
+	PADDING-BOTTOM: 0px !important; PADDING-LEFT: 20px !important; PADDING-RIGHT: 0px !important; BACKGROUND: url(../dotnet/icons/icon_contract.gif) no-repeat left top; FONT-SIZE: 80%; CURSOR: pointer; PADDING-TOP: 0px !important
+}
+A.krugle_link {
+	PADDING-BOTTOM: 2px !important; LINE-HEIGHT: 140%; PADDING-LEFT: 20px !important; PADDING-RIGHT: 0px !important; WHITE-SPACE: nowrap; BACKGROUND: url(../dotnet/icons/silk/page_white_code_red.png) no-repeat; TEXT-DECORATION: none; PADDING-TOP: 0px !important
+}
+A.krugle_link:hover {
+	TEXT-DECORATION: underline
+}
+.firstwave IFRAME {
+	WIDTH: 14.2em
+}
+#fad36 IFRAME {
+	WIDTH: 300px
+}
+.firstwave IFRAME {
+	Z-INDEX: -1; BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium none; HEIGHT: 100%; BORDER-TOP: medium none; TOP: -1px; BORDER-RIGHT: medium none; LEFT: -1px; opacity: 0
+}
+#fad36 IFRAME {
+	Z-INDEX: -1; BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium none; HEIGHT: 100%; BORDER-TOP: medium none; TOP: -1px; BORDER-RIGHT: medium none; LEFT: -1px; opacity: 0
+}
+CODE {
+	BORDER-BOTTOM: #ddd 1px dotted; BORDER-LEFT: #ddd 1px dotted; PADDING-BOTTOM: 1em; MARGIN: 1em; PADDING-LEFT: 1em; WIDTH: 80%; PADDING-RIGHT: 1em; DISPLAY: block; BACKGROUND: #eee; BORDER-TOP: #ddd 1px dotted; BORDER-RIGHT: #ddd 1px dotted; PADDING-TOP: 1em
+}
+TABLE TBODY TR TD I {
+	COLOR: #789 !important
+}
+TABLE#reputation_calc TBODY TR TD {
+	BACKGROUND: url(../dotnet/sfx/sfxm_bg.png) #fff repeat-x
+}
+TABLE#searchtable TBODY TR TD {
+	BACKGROUND: url(../dotnet/sfx/sfxm_bg.png) #fff repeat-x
+}
+TABLE TBODY TR TD.description {
+	PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 0px !important; BACKGROUND: #fff; BORDER-TOP: medium none; PADDING-TOP: 0px !important
+}
+TABLE.ratings {
+	OVERFLOW: hidden
+}
+TABLE#searchtable TD.iselect {
+	TEXT-ALIGN: center; WIDTH: 1% !important
+}
+TABLE#searchtable TH.iselect {
+	TEXT-ALIGN: center; WIDTH: 1% !important
+}
+TABLE.ratings#searchtable TD {
+	WIDTH: 15%
+}
+TABLE.ratings#searchtable TH {
+	WIDTH: 15%
+}
+TABLE.ratings#searchtable TD.project {
+	WIDTH: 40% !important
+}
+TABLE.ratings#searchtable TH.project {
+	WIDTH: 40% !important
+}
+TABLE TD.project .rateorder {
+	FLOAT: left
+}
+TABLE TD .rateorder {
+	POSITION: relative
+}
+TABLE TD .rateorder SPAN {
+	MARGIN-LEFT: 10px
+}
+TABLE.ratings#searchtable OL LI {
+	POSITION: relative; MARGIN-BOTTOM: 1em; FONT-SIZE: 100%
+}
+TABLE.notifications#searchtable TD {
+	WIDTH: 5%
+}
+TABLE.notifications#searchtable TH {
+	WIDTH: 5%
+}
+TABLE.notifications#searchtable TD.project {
+	WIDTH: 80% !important
+}
+TABLE.notifications#searchtable TH.project {
+	WIDTH: 80% !important
+}
+TABLE.notifications#searchtable TD.project {
+	FONT-SIZE: 75%
+}
+#searchtable_topBanner {
+	BORDER-BOTTOM: #c1cacf 1px solid; PADDING-BOTTOM: 12px; WIDTH: 98%; BORDER-TOP: #c1cacf 1px solid; PADDING-TOP: 4px
+}
+#searchtable_bottomBanner {
+	BORDER-BOTTOM: #c1cacf 1px solid; PADDING-BOTTOM: 12px; MARGIN-TOP: 5px; WIDTH: 98%; BORDER-TOP: #c1cacf 1px solid; PADDING-TOP: 4px
+}
+.callbox {
+	BORDER-BOTTOM: #abc 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #abc 1px solid; MARGIN: 0px 1.6em; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -21px; BORDER-TOP: #abc 1px solid; BORDER-RIGHT: #abc 1px solid
+}
+.securebox.callbox {
+	BORDER-BOTTOM: #fc0 1px solid; BORDER-LEFT: #fc0 1px solid; MARGIN-TOP: 0.5em !important; BACKGROUND: url(../dotnet/sfx/secure_bg.png) #fff repeat-x 0px -21px; BORDER-TOP: #fc0 1px solid; BORDER-RIGHT: #fc0 1px solid
+}
+.secure_shield {
+	TEXT-INDENT: -7000em; WIDTH: 30px; BACKGROUND: url(../dotnet/sfx/secure_shield.png) no-repeat; HEIGHT: 50px
+}
+.callbox H4 {
+	BORDER-BOTTOM: #abc 1px solid; PADDING-BOTTOM: 0.3em; MARGIN: 0.5em 0px; COLOR: #789
+}
+.callbox .clean LI {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-LEFT: 2em; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -41px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.callbox .clean {
+	MARGIN: 0px -1em
+}
+.callbox DIV {
+	POSITION: relative
+}
+.dogear {
+	Z-INDEX: 0; POSITION: absolute; TEXT-ALIGN: right; PADDING-BOTTOM: 53px; PADDING-LEFT: 55px; WIDTH: 60px; PADDING-RIGHT: 10px; BACKGROUND: url(../dotnet/sfx/dogear.png) no-repeat; FLOAT: right; COLOR: #abc !important; FONT-SIZE: 12.5px; TOP: 0px; RIGHT: 0px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+.summary .right .callbox {
+	TEXT-ALIGN: left; MARGIN: 0px
+}
+.wizard P {
+	PADDING-BOTTOM: 0.5em; PADDING-LEFT: 1.5%; WIDTH: 30%; PADDING-RIGHT: 1.5%; BACKGROUND: #eee; FLOAT: left; FONT-SIZE: 85%; PADDING-TOP: 0.5em
+}
+.wizard P.selected {
+	BACKGROUND: #ddd; FONT-WEIGHT: bold
+}
+.wizard HR {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; VISIBILITY: hidden; CLEAR: both; PADDING-TOP: 0px
+}
+.blink {
+	TEXT-ALIGN: center; DISPLAY: block
+}
+.blink A {
+	BORDER-BOTTOM: #fe6 1px solid; BORDER-LEFT: #fe6 1px solid; PADDING-BOTTOM: 0.5em; MARGIN: 0px 1em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; WHITE-SPACE: nowrap; BACKGROUND: #ffd; BORDER-TOP: #fe6 1px solid; BORDER-RIGHT: #fe6 1px solid; PADDING-TOP: 0.5em
+}
+.callbox DIV {
+	BORDER-BOTTOM: #fff 4px solid; BORDER-LEFT: #fff 4px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BORDER-TOP: #fff 4px solid; BORDER-RIGHT: #fff 4px solid; PADDING-TOP: 0px
+}
+.blink DIV {
+	BORDER-BOTTOM: #fff 4px solid; BORDER-LEFT: #fff 4px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BORDER-TOP: #fff 4px solid; BORDER-RIGHT: #fff 4px solid; PADDING-TOP: 0px
+}
+.mycreate DIV {
+	BORDER-BOTTOM: #fff 4px solid; BORDER-LEFT: #fff 4px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BORDER-TOP: #fff 4px solid; BORDER-RIGHT: #fff 4px solid; PADDING-TOP: 0px
+}
+.mycreate1 DIV {
+	BORDER-BOTTOM: #fff 4px solid; BORDER-LEFT: #fff 4px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BORDER-TOP: #fff 4px solid; BORDER-RIGHT: #fff 4px solid; PADDING-TOP: 0px
+}
+.mylogin {
+	PADDING-BOTTOM: 2em; MARGIN: 1em 0px; PADDING-LEFT: 1em; WIDTH: 40%; PADDING-RIGHT: 1em; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -41px; FLOAT: right; PADDING-TOP: 2em
+}
+.mylogins {
+	PADDING-BOTTOM: 2em; MARGIN: 1em 0px; PADDING-LEFT: 1em; WIDTH: 40%; PADDING-RIGHT: 1em; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -41px; FLOAT: right; PADDING-TOP: 2em
+}
+.mylogins {
+	TEXT-ALIGN: center
+}
+.mylogin P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2em; PADDING-RIGHT: 2em; PADDING-TOP: 0px
+}
+.mylogins FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.mylogin FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.login FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.mylogins LEGEND {
+	DISPLAY: none !important
+}
+.mylogin LEGEND {
+	DISPLAY: none !important
+}
+.login LEGEND {
+	DISPLAY: none !important
+}
+.mycreate {
+	BORDER-BOTTOM: #abc 1px solid; BORDER-LEFT: #abc 1px solid; MARGIN: 1em 0px; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -21px; FLOAT: left; COLOR: #456; BORDER-TOP: #abc 1px solid; BORDER-RIGHT: #abc 1px solid
+}
+.mycreate1 {
+	BORDER-BOTTOM: #abc 1px solid; BORDER-LEFT: #abc 1px solid; MARGIN: 1em 0px; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -21px; FLOAT: left; COLOR: #456; BORDER-TOP: #abc 1px solid; BORDER-RIGHT: #abc 1px solid
+}
+.mycreate {
+	WIDTH: 50%
+}
+.mycreate DIV {
+	HEIGHT: 25em
+}
+.big {
+	MARGIN: 2em; FONT-SIZE: 135%
+}
+.mycreate1 {
+	BORDER-BOTTOM: #abc 1px solid; BORDER-LEFT: #abc 1px solid; MARGIN: 0.5em 0px 2em; WIDTH: 100%; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -21px; FLOAT: none; COLOR: #456; BORDER-TOP: #abc 1px solid; BORDER-RIGHT: #abc 1px solid
+}
+.actionb {
+	BORDER-BOTTOM: #c93 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #ffe 1px solid; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BACKGROUND: url(../dotnet/sfx/sfx_bg_y.png) #ffb331 repeat-x; COLOR: #300; BORDER-TOP: #ffe 1px solid; BORDER-RIGHT: #c93 1px solid; PADDING-TOP: 0.2em
+}
+A.actionb {
+	CURSOR: pointer
+}
+A.actionb:hover {
+	COLOR: #600
+}
+.actionb_disabled {
+	BORDER-BOTTOM: #000 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #ffe 1px solid; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; BACKGROUND: url(../dotnet/sfx/sfx_bg_b.png) #eeeeee repeat-x; COLOR: #fff; BORDER-TOP: #ffe 1px solid; BORDER-RIGHT: #000 1px solid; PADDING-TOP: 0.2em
+}
+.disabled {
+	COLOR: #ccc !important
+}
+.actionbc {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #c93 1px solid; BACKGROUND: #ffb331; COLOR: #ffd; BORDER-TOP: #c93 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+.expand {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 16px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.collapse {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 16px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.expand {
+	BACKGROUND: url(../dotnet/icons/icon_expand.gif) no-repeat
+}
+.collapse {
+	BACKGROUND: url(../dotnet/icons/icon_contract.gif) no-repeat
+}
+.buttons {
+	BORDER-BOTTOM: #bcd 1px solid; TEXT-ALIGN: left !important; BORDER-LEFT: #bcd 1px solid; PADDING-BOTTOM: 2px; MARGIN-TOP: 2em; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: url(../dotnet/sfx/sfx_bg2.png) #fff repeat-x 0px -21px; CLEAR: both !important; FONT-SIZE: 100% !important; BORDER-TOP: #bcd 1px solid; BORDER-RIGHT: #bcd 1px solid; PADDING-TOP: 2px
+}
+TD.actions {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: left !important; BORDER-LEFT: medium none; PADDING-BOTTOM: 1em !important; PADDING-LEFT: 2px !important; PADDING-RIGHT: 2px !important; COLOR: #ddd; FONT-SIZE: 110% !important; BORDER-TOP: #789 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: medium none; PADDING-TOP: 2px !important
+}
+.right {
+	PADDING-LEFT: 5%; WIDTH: 45%; FLOAT: right; CLEAR: right
+}
+.buy_service .right {
+	BORDER-LEFT: #abc 1px solid
+}
+.sell_service .right {
+	BORDER-LEFT: #abc 1px solid
+}
+.sell_service .right {
+	BORDER-LEFT: #abc 1px solid
+}
+.sell_service SELECT {
+	WIDTH: 40%
+}
+.sell_service INPUT.text {
+	WIDTH: 40%
+}
+.sell_service SELECT {
+	WIDTH: 40%
+}
+.sell_service INPUT.text {
+	WIDTH: 40%
+}
+.buy_service SELECT {
+	WIDTH: 90%
+}
+.buy_service INPUT.text {
+	WIDTH: 90%
+}
+.sell_service .left SELECT {
+	WIDTH: 60%
+}
+.sell_service .left INPUT.text {
+	WIDTH: 60%
+}
+.sell_service .special INPUT.text {
+	MARGIN: 0.2em 0px 0.4em; WIDTH: 40%
+}
+.sell_service .special SELECT {
+	MARGIN: 0.2em 0px 0.4em; WIDTH: 90%
+}
+.sell_service .special TEXTAREA {
+	MARGIN: 0.2em 0px 0.4em; WIDTH: 90%
+}
+#paymenttypes TEXTAREA {
+	MARGIN: 0.2em 0px 0.4em; WIDTH: 90%
+}
+.sell_service TEXTAREA {
+	WIDTH: 50%
+}
+.sell_service TEXTAREA#project_and_specialties {
+	WIDTH: 40%
+}
+#innerframe FIELDSET {
+	MARGIN: 0px 0px 1em; BORDER-TOP: #789 1px solid
+}
+.services_create2 .sell_service#innerframe FIELDSET {
+	MARGIN: 0px 0px 1em; BORDER-TOP: #789 1px solid
+}
+#innerframe LEGEND {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em -1em; PADDING-LEFT: 0px; PADDING-RIGHT: 1em; DISPLAY: block; HEIGHT: 2em; COLOR: #345; FONT-WEIGHT: bold; PADDING-TOP: 1em
+}
+.services_create2 #innerframe LEGEND {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em -1em; PADDING-LEFT: 0px; PADDING-RIGHT: 1em; DISPLAY: block; HEIGHT: 2em; COLOR: #345; FONT-WEIGHT: bold; PADDING-TOP: 1em
+}
+.buy_service#innerframe LEGEND {
+	DISPLAY: block !important
+}
+.services_create2 LEGEND {
+	DISPLAY: block !important
+}
+.helptippable {
+	BORDER-BOTTOM: #ffffff 1px solid; POSITION: relative; BORDER-LEFT: #ffffff 1px solid; PADDING-BOTTOM: 1em; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 0.5em; WIDTH: 100%; PADDING-RIGHT: 0.5em; MARGIN-LEFT: -0.5em; BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; PADDING-TOP: 0.2em
+}
+.helptip {
+	BORDER-BOTTOM: #9cf 1px solid; BORDER-LEFT: #9cf 1px solid; BACKGROUND: #def; BORDER-TOP: #9cf 1px solid; BORDER-RIGHT: #9cf 1px solid
+}
+.helptip SMALL {
+	POSITION: absolute; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 40px; WIDTH: 33%; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/icons/silk/information.png) no-repeat 10px 3px; HEIGHT: 5.1em; OVERFLOW: auto; TOP: 0px; RIGHT: 0px; PADDING-TOP: 0.2em
+}
+.paytip {
+	PADDING-BOTTOM: 0.5em; PADDING-LEFT: 2.5em; PADDING-RIGHT: 0.5em; BACKGROUND: url(../dotnet/icons/silk/information.png) #def no-repeat 10px 3px; FONT-SIZE: 82.3% !important; PADDING-TOP: 0.5em
+}
+.note {
+	CLEAR: both
+}
+.notemulti {
+	CLEAR: both
+}
+.multiplefield {
+	HEIGHT: 2em
+}
+LABEL {
+	FONT-WEIGHT: normal
+}
+.special {
+	MARGIN-BOTTOM: 1em
+}
+.left {
+	Z-INDEX: 0; WIDTH: 45%; MARGIN-BOTTOM: 2em; FLOAT: left; MARGIN-LEFT: 0.6em
+}
+.limitselect {
+	WIDTH: auto !important
+}
+SELECT.service {
+	DISPLAY: inline
+}
+LI P {
+	FONT-SIZE: 100% !important
+}
+.right .clean {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.left .clean {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.right P {
+	PADDING-LEFT: 0.3em
+}
+.left P {
+	PADDING-LEFT: 0.3em
+}
+.summary .left {
+	MARGIN-BOTTOM: 0px
+}
+.summary .left P STRONG {
+	POSITION: relative; WIDTH: 11em !important; FLOAT: left; MARGIN-LEFT: -11em; CLEAR: left; FONT-WEIGHT: normal
+}
+.summary .left P LABEL {
+	POSITION: relative; WIDTH: 11em !important; FLOAT: left; MARGIN-LEFT: -11em; CLEAR: left; FONT-WEIGHT: normal
+}
+.summary .left P {
+	MARGIN-LEFT: 10em
+}
+.summary .right P STRONG {
+	POSITION: relative; WIDTH: 9em !important; FLOAT: left; MARGIN-LEFT: -9em; CLEAR: left; FONT-WEIGHT: normal
+}
+.summary .right .seller {
+	MARGIN-TOP: -0.5em
+}
+.summary .right .seller P STRONG {
+	WIDTH: 11em !important; MARGIN-LEFT: -11em
+}
+.summary .right .seller DIV {
+	MARGIN-LEFT: 8em; FONT-SIZE: 82.3% !important; FONT-WEIGHT: normal
+}
+#firstname INPUT {
+	WIDTH: 16em
+}
+#lastname INPUT {
+	WIDTH: 16em
+}
+#orgname INPUT {
+	WIDTH: 34em
+}
+#street INPUT {
+	WIDTH: 34em
+}
+#paymenttypes .info INPUT {
+	WIDTH: 60%
+}
+#state {
+	MARGIN: 0px 1em 1em 0px; FLOAT: left
+}
+#city {
+	MARGIN: 0px 1em 1em 0px; FLOAT: left
+}
+#firstname {
+	MARGIN: 0px 1em 1em 0px; FLOAT: left
+}
+#lastname {
+	MARGIN: 0px 1em 1em 0px; FLOAT: left
+}
+#zip {
+	MARGIN: 0px 1em 1em 0px; FLOAT: left
+}
+#username {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#paymenttypes {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#phone {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#orgname {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#country {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#supportedlanguage {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#timezone {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#age {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#siteupdate {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+#password {
+	MARGIN-TOP: 0px; DISPLAY: block !important; CLEAR: left !important
+}
+.service_details .summary .right P {
+	MARGIN-LEFT: 5em
+}
+.service_details .summary .right P STRONG {
+	POSITION: relative; WIDTH: 5em !important; FLOAT: left; MARGIN-LEFT: -5em; CLEAR: left; FONT-WEIGHT: normal
+}
+FIELDSET {
+	PADDING-LEFT: 1em
+}
+.summary .right P {
+	MARGIN-LEFT: 9em
+}
+.center {
+	TEXT-ALIGN: center
+}
+.col2 {
+	Z-INDEX: 0 !important; POSITION: relative; PADDING-BOTTOM: 0px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 0px !important; OVERFLOW: hidden; PADDING-TOP: 0px !important
+}
+.col2 H3 {
+	POSITION: relative; MARGIN: 0.2em 0px; FONT-SIZE: 120%
+}
+.col2 UL.clean {
+	POSITION: relative; TEXT-ALIGN: left; PADDING-BOTTOM: 0px !important; MARGIN: 0px 3% 1em 0px; PADDING-LEFT: 0px !important; WIDTH: 45%; PADDING-RIGHT: 0px !important; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px !important
+}
+.col2 .col {
+	POSITION: relative; TEXT-ALIGN: left; PADDING-BOTTOM: 0px !important; MARGIN: 0px 3% 1em 0px; PADDING-LEFT: 0px !important; WIDTH: 45%; PADDING-RIGHT: 0px !important; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px !important
+}
+.col3 .col {
+	POSITION: relative; TEXT-ALIGN: left; PADDING-BOTTOM: 0px !important; MARGIN: 0px 3% 1em 0px; PADDING-LEFT: 0px !important; WIDTH: 28%; PADDING-RIGHT: 0px !important; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px !important
+}
+.col1 .col {
+	POSITION: relative; TEXT-ALIGN: left; PADDING-BOTTOM: 0px !important; MARGIN: 0px 3% 1em 0px; PADDING-LEFT: 0px !important; WIDTH: 100%; PADDING-RIGHT: 0px !important; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px !important
+}
+.col2 .col OL {
+	POSITION: relative; TEXT-ALIGN: left; MARGIN: 0px 3% 1em 0px
+}
+.col2 UL.clean LI {
+	POSITION: relative; FONT-SIZE: 70% !important
+}
+.col2 .col UL {
+	WIDTH: 100%; FLOAT: none
+}
+.col TD {
+	FONT-SIZE: 70% !important
+}
+.col UL.clean LI {
+	FONT-SIZE: 80% !important
+}
+.col .ratings TH {
+	TEXT-ALIGN: center; WIDTH: 20%
+}
+.col .ratings TD {
+	TEXT-ALIGN: center; WIDTH: 20%
+}
+.col TH {
+	FONT-SIZE: 70% !important
+}
+.col TD .rate {
+	POSITION: relative; DISPLAY: block
+}
+TD .rate {
+	TOP: 0pt
+}
+.balance {
+	HEIGHT: 14em
+}
+.rate {
+	POSITION: absolute; TEXT-INDENT: -7000em; WIDTH: 46px; BACKGROUND: url(../dotnet/sfx/rating_smx.gif) no-repeat; MARGIN-LEFT: 0.2em; FONT-SIZE: 11px !important
+}
+.ratehow {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 46px; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0px
+}
+.rateorder {
+	LINE-HEIGHT: 140%; WHITE-SPACE: nowrap
+}
+.ratemath {
+	Z-INDEX: 1000; BORDER-BOTTOM: #abc 2px solid; POSITION: absolute; BORDER-LEFT: #abc 2px solid; WIDTH: 100px; BACKGROUND: #bcd; HEIGHT: 100px; BORDER-TOP: #abc 2px solid; BORDER-RIGHT: #abc 2px solid
+}
+.info SMALL .rate {
+	MARGIN-TOP: -2px; MARGIN-LEFT: 0.4em !important
+}
+.error SMALL .rate {
+	MARGIN-TOP: -2px; MARGIN-LEFT: 0.4em !important
+}
+.warning SMALL .rate {
+	MARGIN-TOP: -2px; MARGIN-LEFT: 0.4em !important
+}
+.message SMALL .rate {
+	MARGIN-TOP: -2px; MARGIN-LEFT: 0.4em !important
+}
+.r0half {
+	BACKGROUND-POSITION: 0px -797px
+}
+.r1 {
+	BACKGROUND-POSITION: 0px 4px
+}
+.r1half {
+	BACKGROUND-POSITION: 0px -997px
+}
+.r2 {
+	BACKGROUND-POSITION: 0px -197px
+}
+.r2half {
+	BACKGROUND-POSITION: 0px -1197px
+}
+.r3 {
+	BACKGROUND-POSITION: 0px -397px
+}
+.r3half {
+	BACKGROUND-POSITION: 0px -1397px
+}
+.r4 {
+	BACKGROUND-POSITION: 0px -597px
+}
+.r4half {
+	BACKGROUND-POSITION: 0px -1597px
+}
+.r5 {
+	BACKGROUND-POSITION: 0px -1797px
+}
+.desc_left {
+	LINE-HEIGHT: 160%; WIDTH: 18em; DISPLAY: block; FLOAT: left; FONT-SIZE: 90%
+}
+.desc_right {
+	BORDER-LEFT: #eee 1px solid; PADDING-BOTTOM: 0.3em; LINE-HEIGHT: 160%; PADDING-LEFT: 1em; PADDING-RIGHT: 0.3em; MARGIN-LEFT: 17em; FONT-SIZE: 95%; PADDING-TOP: 0.3em
+}
+.star0 {
+	PADDING-BOTTOM: 7px; TEXT-INDENT: -7000em; PADDING-LEFT: 5px; WIDTH: 30px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(../dotnet/sfx/stars0.gif) no-repeat; FLOAT: left; PADDING-TOP: 7px
+}
+.star1 {
+	PADDING-BOTTOM: 7px; TEXT-INDENT: -7000em; PADDING-LEFT: 5px; WIDTH: 30px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(../dotnet/sfx/stars1.gif) no-repeat; FLOAT: left; PADDING-TOP: 7px
+}
+.star1half {
+	PADDING-BOTTOM: 7px; TEXT-INDENT: -7000em; PADDING-LEFT: 5px; WIDTH: 30px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(../dotnet/sfx/stars1half.gif) no-repeat; FLOAT: left; PADDING-TOP: 7px
+}
+P.options {
+	CLEAR: left
+}
+.required B {
+	PADDING-LEFT: 0.2em; COLOR: #900
+}
+.service_key {
+	FLOAT: right
+}
+.service_key SPAN {
+	BORDER-BOTTOM: #345 1px solid; BORDER-LEFT: #345 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px 0.3em; PADDING-LEFT: 5px; WIDTH: 10px; PADDING-RIGHT: 5px; HEIGHT: 10px; BORDER-TOP: #345 1px solid; BORDER-RIGHT: #345 1px solid; PADDING-TOP: 0px
+}
+.endorsed {
+	BACKGROUND: url(../dotnet/sfx/sfxm_g_bg.png) #aae0a1 repeat-x
+}
+.endorsed TD {
+	BACKGROUND: url(../dotnet/sfx/sfxm_g_bg.png) #aae0a1 repeat-x
+}
+.exclusive {
+	BACKGROUND: url(../dotnet/sfx/sfxm_y_bg.png) #ffc383 repeat-x
+}
+.exclusive TD {
+	BACKGROUND: url(../dotnet/sfx/sfxm_y_bg.png) #ffc383 repeat-x
+}
+.not_endorsed {
+	BACKGROUND: url(../dotnet/sfx/sfxm_bg.png) #fff repeat-x
+}
+PRE.wordwrapped {
+	WORD-WRAP: break-word; WHITE-SPACE: pre-wrap
+}
+.faq {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; FONT-SIZE: 85%; PADDING-TOP: 0px
+}
+.faq DT BIG {
+	COLOR: #000
+}
+.faq DT {
+	MARGIN-TOP: 1em
+}
+.faq DD {
+	MARGIN-TOP: 0.5em
+}
+.getservices {
+	Z-INDEX: 1; PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; WIDTH: 330px; PADDING-RIGHT: 1px; BACKGROUND: url(../dotnet/sfx/getExpert.png) no-repeat; FLOAT: left; HEIGHT: 45px; COLOR: white; FONT-SIZE: 14px; PADDING-TOP: 8px
+}
+.getservices H3 {
+	MARGIN: 0px; COLOR: white; FONT-SIZE: 16px
+}
+.wrappedproject {
+	WIDTH: 55%; FLOAT: left
+}
+.servicebar {
+	POSITION: relative; PADDING-BOTTOM: 1.7em !important; MARGIN: 0px 0px -0.5em 1em; PADDING-LEFT: 0.5em !important; WIDTH: 17em; PADDING-RIGHT: 4.5em !important; BACKGROUND: url(../dotnet/sfx/srv.png) #5d7486 repeat-x left bottom; COLOR: #345; FONT-SIZE: 82.3%; BORDER-TOP: #4b5d6b 1px solid; PADDING-TOP: 0.3em !important
+}
+.servicebar A {
+	MARGIN: 0px 3.5em 0px 0px; COLOR: #fff !important
+}
+.servicebar A:hover {
+	COLOR: #eee !important
+}
+.servicebar SMALL {
+	POSITION: absolute; PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; BOTTOM: 0px; PADDING-RIGHT: 20px; BACKGROUND: url(../dotnet/sfx/srvArrow.png) no-repeat left bottom; COLOR: #fff; RIGHT: 0px; PADDING-TOP: 20px
+}
+.getserviceslogo {
+	Z-INDEX: 1; MARGIN: 0.3em -4em 0px 0px; WIDTH: 150px; BACKGROUND: url(../dotnet/sfx/marketplaceLogo.png) no-repeat right top; FLOAT: right; HEIGHT: 33px
+}
+.firstwave LI A SUP B {
+	POSITION: absolute; PADDING-BOTTOM: 15px; TEXT-INDENT: -7000px; PADDING-LEFT: 15px; WIDTH: 30px; PADDING-RIGHT: 15px; TOP: 0px; PADDING-TOP: 15px; LEFT: 0px
+}
+.firstwave LI A SUP {
+	POSITION: relative; PADDING-BOTTOM: 6px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; FONT-SIZE: smaller; VERTICAL-ALIGN: baseline; PADDING-TOP: 6px
+}
+.beta A SUP B {
+	BACKGROUND: url(../dotnet/icons/beta_sm.png) no-repeat 0px -5px
+}
+.new A SUP B {
+	BACKGROUND: url(../dotnet/icons/new_sm.png) no-repeat 0px -5px
+}
+#rate_pop .rateorder {
+	POSITION: static
+}
+.bg_gloss {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; PADDING-BOTTOM: 25px; LINE-HEIGHT: 140%; PADDING-LEFT: 25px; WIDTH: 225px; PADDING-RIGHT: 25px; BACKGROUND: url(../dotnet/bg_gloss.png) no-repeat; FLOAT: right; COLOR: #345; MARGIN-LEFT: 30px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 25px
+}
+.button_gloss {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 15px; MARGIN: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: url(../dotnet/button_gloss.png) no-repeat left center; FONT-SIZE: 12px; PADDING-TOP: 15px
+}
+.button_gloss_gold {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 15px !important; MARGIN: 0pt; PADDING-LEFT: 15px !important; PADDING-RIGHT: 25px !important; BACKGROUND: url(../dotnet/button_gold2.png) no-repeat left center; FONT-SIZE: 12px !important; PADDING-TOP: 12px !important
+}
+.button_gloss_dark {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 15px; MARGIN: 0pt; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: url(../dotnet/button_gloss_dark.png) no-repeat left center; FONT-SIZE: 12px; PADDING-TOP: 15px
+}
+.button_gloss_dark A {
+	COLOR: #fff
+}
+.button_gold {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 15px; MARGIN: 0px; PADDING-LEFT: 15px; WIDTH: 220px; PADDING-RIGHT: 25px; BACKGROUND: url(../dotnet/button_gold.png) no-repeat left center; FONT-SIZE: 12px; PADDING-TOP: 15px
+}
+.button_gloss A {
+	COLOR: #345
+}
+.button_gloss_gold A {
+	COLOR: #300
+}
+.button_gold A {
+	COLOR: #300
+}
+A.button_gloss_gold_link {
+	COLOR: #300
+}
+.button_gloss_gold A {
+	COLOR: #300
+}
+.button_gold A {
+	COLOR: #300
+}
+A.button_gloss_gold_link {
+	COLOR: #300
+}
+.past {
+	PADDING-BOTTOM: 0pt; PADDING-LEFT: 18px; PADDING-RIGHT: 0pt; BACKGROUND: url(../dotnet/icons/silk/time.png) no-repeat left center; PADDING-TOP: 0pt
+}
+#sf_register_project_align_wrapper {
+	MARGIN-BOTTOM: 25px; MARGIN-LEFT: 20px
+}
+#sf_register_project_stage1_table {
+	WIDTH: 100%
+}
+#sf_register_project_trove_widget_wrapper {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; MARGIN: 10px 0px; WIDTH: 100%; HEIGHT: 215px; OVERFLOW: auto; BORDER-TOP: #999999 1px solid; BORDER-RIGHT: #999999 1px solid
+}
+#sf_register_project_trove_widget {
+	WIDTH: 350%
+}
+#sf_register_project_trove_widget_form {
+	WIDTH: 100%
+}
+.sf_register_project_select_box {
+	MIN-WIDTH: 189px; DISPLAY: inline; FLOAT: left; CLEAR: none
+}
+.sf_register_project_select_box OPTION {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-SIZE: 12px; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.sf_register_project_top_level {
+	COLOR: #444444; FONT-WEIGHT: normal
+}
+.sf_register_project_top_level_selected {
+	COLOR: #999999; FONT-WEIGHT: normal
+}
+#sf_register_project_trove_categories {
+	LIST-STYLE-POSITION: inside !important; PADDING-BOTTOM: 0px !important; MARGIN: 0px; PADDING-LEFT: 0px !important; WIDTH: 100%; PADDING-RIGHT: 0px !important; PADDING-TOP: 0px !important
+}
+#sf_register_project_trove_categories LI {
+	LIST-STYLE-POSITION: inside !important; PADDING-BOTTOM: 4px !important; MARGIN: 4px 0px; PADDING-LEFT: 10px !important; PADDING-RIGHT: 0px !important; BACKGROUND: #ebf4ff; PADDING-TOP: 4px !important
+}
+#sf_register_project_add_box {
+	LIST-STYLE-POSITION: inside !important; PADDING-BOTTOM: 4px !important; MARGIN: 4px 0px; PADDING-LEFT: 10px !important; WIDTH: 100%; PADDING-RIGHT: 0px !important; BACKGROUND: #ccebcc; HEIGHT: 22px; FONT-SIZE: 82.3%; PADDING-TOP: 4px !important
+}
+#sf_register_project_add_box FORM {
+	DISPLAY: inline !important
+}
+#sf_register_project_trove_categories LI FORM {
+	DISPLAY: inline !important
+}
+#sf_register_project_trove_categories LI .sf_register_project_trove_cat_name {
+	PADDING-LEFT: 20px; VERTICAL-ALIGN: middle
+}
+#sf_register_project_trove_categories LI .delete {
+	POSITION: absolute; TEXT-INDENT: -7000em; WIDTH: 16px; MARGIN-LEFT: 3px
+}
+#sf_register_project_header_top {
+	BACKGROUND-IMAGE: url(/images/register-project/header_background.png); PADDING-BOTTOM: 0px !important; PADDING-LEFT: 20px !important; WIDTH: 100%; PADDING-RIGHT: 0px !important; BACKGROUND-REPEAT: repeat-x; HEIGHT: 23px; COLOR: white; PADDING-TOP: 5px !important
+}
+#sf_register_project_header_bottom {
+	PADDING-BOTTOM: 4px !important; PADDING-LEFT: 20px !important; WIDTH: 100%; PADDING-RIGHT: 0px !important; BACKGROUND: #e6e6e6; HEIGHT: 23px; PADDING-TOP: 2px !important
+}
+.sf_register_project_bottom_buttons {
+	PADDING-LEFT: 30px; PADDING-TOP: 10px
+}
+.sf_register_project_bottom_buttons FORM {
+	FLOAT: left; CLEAR: none; MARGIN-RIGHT: 3px
+}
+#sf_register_project_stage1_table {
+	
+}
+#sf_register_project_stage1_table TR TD {
+	PADDING-BOTTOM: 10px
+}
+.sf_register_project_stage1_row {
+	PADDING-BOTTOM: 10px; WIDTH: 100%; FLOAT: left; CLEAR: both; FONT-SIZE: 14px !important
+}
+.sf_register_project_stage1_left_col {
+	WIDTH: 15%; FLOAT: left
+}
+.sf_register_project_stage1_right_col {
+	FLOAT: left; CLEAR: none
+}
+.sf_register_project_stage1_tricky_do {
+	FLOAT: left; CLEAR: none
+}
+.sf_register_project_stage1_extra_question {
+	HEIGHT: 20px; MARGIN-RIGHT: -3px
+}
+#sf_register_project_stage2_table {
+	FONT-SIZE: 14px !important
+}
+#sf_register_project_stage2_table2 {
+	MARGIN-LEFT: 180px; FONT-SIZE: 14px !important
+}
+#sf_register_project_stage2_extra_licenses {
+	TEXT-ALIGN: right; WIDTH: 100%; FONT-SIZE: 14px !important
+}
+.sf_register_project_li_required {
+	BACKGROUND-IMAGE: url(../dotnet/star.png) !important; BACKGROUND-REPEAT: no-repeat !important; BACKGROUND-POSITION: 20px 2px
+}
+.sf_register_project_single_trove_category_added {
+	
+}
+.sf_register_project_li_required SPAN {
+	COLOR: black
+}
+.sf_register_project_cancel_button {
+	PADDING-LEFT: 15px !important; FONT-SIZE: 9px !important
+}
+.sf_register_notconfirmed {
+	PADDING-BOTTOM: 0pt; PADDING-LEFT: 18px; PADDING-RIGHT: 0pt; BACKGROUND: url(../dotnet/icons/checkoff.png) no-repeat left center; PADDING-TOP: 0pt
+}
+.sf_register_confirmed {
+	PADDING-BOTTOM: 0pt; PADDING-LEFT: 18px; PADDING-RIGHT: 0pt; BACKGROUND: url(../dotnet/icons/silk/accept.png) no-repeat left center; PADDING-TOP: 0pt
+}
+.sf_register_namesuggest {
+	POSITION: relative; BACKGROUND-COLOR: #dddddd; WIDTH: 300px; FONT-SIZE: 80%; LEFT: 170px
+}
+.sf_register_invalid {
+	BACKGROUND-COLOR: #fbb
+}
+DIV.sf_register_buttons {
+	TEXT-ALIGN: left !important
+}
+.cluetip-jtip H3#cluetip-title {
+	PADDING-BOTTOM: 2px; MARGIN: 0px 0px 5px; PADDING-LEFT: 25px; PADDING-RIGHT: 5px; BACKGROUND: url(../dotnet/icons/silk/information.png) #def no-repeat 5px 2px; COLOR: #369; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 2px
+}
+SPAN.login {
+	PADDING-LEFT: 18px !important; BACKGROUND: url(../dotnet/openid/openid_small_logo.png) no-repeat 0px 50%; PADDING-TOP: 0.2em !important
+}
+.openid {
+	PADDING-LEFT: 18px !important; BACKGROUND: url(../dotnet/openid/openid_small_logo.png) no-repeat 0px 50%; PADDING-TOP: 0.2em !important
+}
+.openid_url_input {
+	PADDING-LEFT: 18px !important; BACKGROUND: url(../dotnet/openid/openid_small_logo.png) no-repeat 0px 50%; PADDING-TOP: 0.2em !important
+}
+.openid_splash {
+	BORDER-BOTTOM: #9cf 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #9cf 1px solid; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em 0px 1em; PADDING-LEFT: 40px; WIDTH: 25em; PADDING-RIGHT: 40px; BACKGROUND: url(../dotnet/icons/silk/information.png) no-repeat 10px 3px; BORDER-TOP: #9cf 1px solid; BORDER-RIGHT: #9cf 1px solid; PADDING-TOP: 0.2em
+}
+#sf_login_text {
+	
+}
+#openid_logo_text {
+	PADDING-LEFT: 60px; BACKGROUND: url(../dotnet/openid/openid_logo_text.png) no-repeat right top
+}
+#login_box {
+	TEXT-ALIGN: center; WIDTH: 49%; MARGIN-BOTTOM: 3em; FLOAT: left; BORDER-RIGHT: #eee 1px solid
+}
+#openid_box {
+	TEXT-ALIGN: center; WIDTH: 49%; MARGIN-BOTTOM: 3em; FLOAT: left
+}
+.idp_button {
+	WIDTH: 20px; HEIGHT: 20px
+}
+#yahoo_id {
+	WIDTH: 199px; BACKGROUND: url(../dotnet/openid/yahoo_id.png) no-repeat; HEIGHT: 33px
+}
+.project_admin_file_releases SMALL .warning {
+	PADDING-BOTTOM: 0.5em; MARGIN-BOTTOM: 0.5em
+}
