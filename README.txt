@@ -1,4 +1,7 @@
 test test
 test
 
-���{��e�X�g�ł��B
+日本語テストです。
+
+UTF-8に変換しました。
+
